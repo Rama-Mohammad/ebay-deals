@@ -10,7 +10,7 @@ import time
 # setup for driver
 def setup_driver():
     options = Options()
-    options.add_argument("--headless=new")
+    #options.add_argument("--headless=new")
     options.add_argument("--window-size=1920,1080")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
@@ -71,7 +71,7 @@ def scrape_products(driver):
         products.append({
             "timestamp": timestamp,
             "title": title,
-            "discounted_price": discounted_price,
+            "price": discounted_price,
             "original_price": original_price,
             "shipping": shipping,
             "item_url": item_url
@@ -83,7 +83,7 @@ def save_to_csv(products, file_name="ebay_tech_deals.csv"):
     try:
         df = pd.read_csv(file_name)
     except FileNotFoundError:
-        df = pd.DataFrame(columns=["timestamp", "title", "discounted_price", "original_price", "shipping", "item_url"])
+        df = pd.DataFrame(columns=["timestamp", "title", "price", "original_price", "shipping", "item_url"])
 
     new_df = pd.DataFrame(products)
     df = pd.concat([df, new_df], ignore_index=True)
