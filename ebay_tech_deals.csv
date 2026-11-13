@@ -891363,547 +891363,1125 @@ timestamp,title,discounted_price,original_price,shipping,item_url,price
 2026-11-12 23:43:32,,,,,,$445.99
 2026-11-12 23:43:32,,,"$1,099.95",,,
 2026-11-12 23:43:32,,,,,,
-2026-11-13 08:48:53,DJI Mic Mini (1 TX + 1 RX) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306791882157?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$42.00
-2026-11-13 08:48:53,N/A,,N/A,N/A,https://www.ebay.com/itm/306791882157?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:53,DJI Mic Mini (1 TX + 1 RX) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306791882157?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$42.00
-2026-11-13 08:48:53,N/A,,N/A,N/A,N/A,$42.00
-2026-11-13 08:48:53,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:53,Apple AirPods Pro 3rd Wireless Active Noise Cancelling Earbuds - White MFHP4LL/A,,$249.00,N/A,https://www.ebay.com/itm/366736231992?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$136.99
-2026-11-13 08:48:53,N/A,,N/A,N/A,https://www.ebay.com/itm/366736231992?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:53,Apple AirPods Pro 3rd Wireless Active Noise Cancelling Earbuds - White MFHP4LL/A,,$249.00,N/A,https://www.ebay.com/itm/366736231992?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$136.99
-2026-11-13 08:48:53,N/A,,N/A,N/A,N/A,$136.99
-2026-11-13 08:48:53,N/A,,$249.00,N/A,N/A,N/A
-2026-11-13 08:48:53,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:53,DJI Mavic Air 2 Air 2S Intelligent Flight Battery Certified Refurbished,,$89.00,N/A,https://www.ebay.com/itm/304925251592?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$65.00
-2026-11-13 08:48:53,N/A,,N/A,N/A,https://www.ebay.com/itm/304925251592?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:53,DJI Mavic Air 2 Air 2S Intelligent Flight Battery Certified Refurbished,,$89.00,N/A,https://www.ebay.com/itm/304925251592?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$65.00
-2026-11-13 08:48:53,N/A,,N/A,N/A,N/A,$65.00
-2026-11-13 08:48:53,N/A,,$89.00,N/A,N/A,N/A
-2026-11-13 08:48:53,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:53,"HP - OmniBook 3 - 16"" 2K Touchscreen Laptop - AMD Ryzen 5 40 - 16GB Memory - ...",,N/A,Free shipping,https://www.ebay.com/itm/198221150114?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$879.99
-2026-11-13 08:48:54,N/A,,N/A,N/A,https://www.ebay.com/itm/198221150114?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:54,"HP - OmniBook 3 - 16"" 2K Touchscreen Laptop - AMD Ryzen 5 40 - 16GB Memory - ...",,N/A,Free shipping,https://www.ebay.com/itm/198221150114?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$879.99
-2026-11-13 08:48:54,N/A,,N/A,N/A,N/A,$879.99
+2026-11-13 08:48:53,DJI Mic Mini (1 TX + 1 RX) (Certified Refurbished),,,Free shipping,https://www.ebay.com/itm/306791882157?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$42.00
+2026-11-13 08:48:53,,,,,https://www.ebay.com/itm/306791882157?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:53,DJI Mic Mini (1 TX + 1 RX) (Certified Refurbished),,,Free shipping,https://www.ebay.com/itm/306791882157?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$42.00
+2026-11-13 08:48:53,,,,,,$42.00
+2026-11-13 08:48:53,,,,,,
+2026-11-13 08:48:53,Apple AirPods Pro 3rd Wireless Active Noise Cancelling Earbuds - White MFHP4LL/A,,$249.00,,https://www.ebay.com/itm/366736231992?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$136.99
+2026-11-13 08:48:53,,,,,https://www.ebay.com/itm/366736231992?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:53,Apple AirPods Pro 3rd Wireless Active Noise Cancelling Earbuds - White MFHP4LL/A,,$249.00,,https://www.ebay.com/itm/366736231992?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$136.99
+2026-11-13 08:48:53,,,,,,$136.99
+2026-11-13 08:48:53,,,$249.00,,,
+2026-11-13 08:48:53,,,,,,
+2026-11-13 08:48:53,DJI Mavic Air 2 Air 2S Intelligent Flight Battery Certified Refurbished,,$89.00,,https://www.ebay.com/itm/304925251592?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$65.00
+2026-11-13 08:48:53,,,,,https://www.ebay.com/itm/304925251592?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:53,DJI Mavic Air 2 Air 2S Intelligent Flight Battery Certified Refurbished,,$89.00,,https://www.ebay.com/itm/304925251592?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$65.00
+2026-11-13 08:48:53,,,,,,$65.00
+2026-11-13 08:48:53,,,$89.00,,,
+2026-11-13 08:48:53,,,,,,
+2026-11-13 08:48:53,"HP - OmniBook 3 - 16"" 2K Touchscreen Laptop - AMD Ryzen 5 40 - 16GB Memory - ...",,,Free shipping,https://www.ebay.com/itm/198221150114?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$879.99
+2026-11-13 08:48:54,,,,,https://www.ebay.com/itm/198221150114?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:54,"HP - OmniBook 3 - 16"" 2K Touchscreen Laptop - AMD Ryzen 5 40 - 16GB Memory - ...",,,Free shipping,https://www.ebay.com/itm/198221150114?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$879.99
+2026-11-13 08:48:54,,,,,,$879.99
 2026-11-13 08:48:54,"Apple iPad 11"" 11th Gen A16 Chip Wi-Fi 128GB Silver MD3Y4LL/A 2025",,$449.00,Free shipping,https://www.ebay.com/itm/146500966559?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$369.99
-2026-11-13 08:48:54,N/A,,N/A,N/A,https://www.ebay.com/itm/146500966559?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 08:48:54,,,,,https://www.ebay.com/itm/146500966559?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
 2026-11-13 08:48:54,"Apple iPad 11"" 11th Gen A16 Chip Wi-Fi 128GB Silver MD3Y4LL/A 2025",,$449.00,Free shipping,https://www.ebay.com/itm/146500966559?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$369.99
-2026-11-13 08:48:54,N/A,,N/A,N/A,N/A,$369.99
-2026-11-13 08:48:54,N/A,,$449.00,N/A,N/A,N/A
-2026-11-13 08:48:54,"Acer Aspire 16 AI 16"" Intel Ultra 5 226V 16GB RAM 1TB SSD Intel Arc Refurbished",,"$1,049.99",N/A,https://www.ebay.com/itm/257503592006?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$534.08
-2026-11-13 08:48:54,N/A,,N/A,N/A,https://www.ebay.com/itm/257503592006?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:54,"Acer Aspire 16 AI 16"" Intel Ultra 5 226V 16GB RAM 1TB SSD Intel Arc Refurbished",,"$1,049.99",N/A,https://www.ebay.com/itm/257503592006?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$534.08
-2026-11-13 08:48:54,N/A,,N/A,N/A,N/A,$534.08
-2026-11-13 08:48:54,N/A,,"$1,049.99",N/A,N/A,N/A
-2026-11-13 08:48:54,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:54,Samsung Galaxy S22 5G SM-S901U1 128GB 256GB Unlocked Good,,N/A,Free shipping,https://www.ebay.com/itm/186378192943?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$153.95
-2026-11-13 08:48:54,N/A,,N/A,N/A,https://www.ebay.com/itm/186378192943?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:54,Samsung Galaxy S22 5G SM-S901U1 128GB 256GB Unlocked Good,,N/A,Free shipping,https://www.ebay.com/itm/186378192943?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$153.95
-2026-11-13 08:48:54,N/A,,N/A,N/A,N/A,$153.95
-2026-11-13 08:48:54,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:54,Apple iPhone 15 Pro Max 256GB Unlocked - Very Good,,N/A,Free shipping,https://www.ebay.com/itm/406184999028?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$554.95
-2026-11-13 08:48:54,N/A,,N/A,N/A,https://www.ebay.com/itm/406184999028?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:54,Apple iPhone 15 Pro Max 256GB Unlocked - Very Good,,N/A,Free shipping,https://www.ebay.com/itm/406184999028?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$554.95
-2026-11-13 08:48:54,N/A,,N/A,N/A,N/A,$554.95
-2026-11-13 08:48:54,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:55,"Apple iPad 7 10.2"" (7th Gen 2019) (Wi-Fi) 32GB Space Gray - Good",,$600.00,N/A,https://www.ebay.com/itm/196037526807?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$89.00
-2026-11-13 08:48:55,N/A,,N/A,N/A,https://www.ebay.com/itm/196037526807?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:55,"Apple iPad 7 10.2"" (7th Gen 2019) (Wi-Fi) 32GB Space Gray - Good",,$600.00,N/A,https://www.ebay.com/itm/196037526807?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$89.00
-2026-11-13 08:48:55,N/A,,N/A,N/A,N/A,$89.00
-2026-11-13 08:48:55,N/A,,$600.00,N/A,N/A,N/A
-2026-11-13 08:48:55,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:55,Apple iPhone 12 64GB 128GB 256GB Unlocked Smartphone - Good,,N/A,Free shipping,https://www.ebay.com/itm/156833155405?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$176.99
-2026-11-13 08:48:55,N/A,,N/A,N/A,https://www.ebay.com/itm/156833155405?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:55,Apple iPhone 12 64GB 128GB 256GB Unlocked Smartphone - Good,,N/A,Free shipping,https://www.ebay.com/itm/156833155405?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$176.99
-2026-11-13 08:48:55,N/A,,N/A,N/A,N/A,$176.99
-2026-11-13 08:48:55,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:55,"Apple iPhone 17 Pro Max 6.9"" - 256GB - US Version - Fully Unlocked - Excellent",,N/A,Free shipping,https://www.ebay.com/itm/406845932977?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,"$1,029.99"
-2026-11-13 08:48:55,N/A,,N/A,N/A,https://www.ebay.com/itm/406845932977?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:55,"Apple iPhone 17 Pro Max 6.9"" - 256GB - US Version - Fully Unlocked - Excellent",,N/A,Free shipping,https://www.ebay.com/itm/406845932977?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,"$1,029.99"
-2026-11-13 08:48:55,N/A,,N/A,N/A,N/A,"$1,029.99"
-2026-11-13 08:48:55,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:48:54,,,,,,$369.99
+2026-11-13 08:48:54,,,$449.00,,,
+2026-11-13 08:48:54,"Acer Aspire 16 AI 16"" Intel Ultra 5 226V 16GB RAM 1TB SSD Intel Arc Refurbished",,"$1,049.99",,https://www.ebay.com/itm/257503592006?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$534.08
+2026-11-13 08:48:54,,,,,https://www.ebay.com/itm/257503592006?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:54,"Acer Aspire 16 AI 16"" Intel Ultra 5 226V 16GB RAM 1TB SSD Intel Arc Refurbished",,"$1,049.99",,https://www.ebay.com/itm/257503592006?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$534.08
+2026-11-13 08:48:54,,,,,,$534.08
+2026-11-13 08:48:54,,,"$1,049.99",,,
+2026-11-13 08:48:54,,,,,,
+2026-11-13 08:48:54,Samsung Galaxy S22 5G SM-S901U1 128GB 256GB Unlocked Good,,,Free shipping,https://www.ebay.com/itm/186378192943?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$153.95
+2026-11-13 08:48:54,,,,,https://www.ebay.com/itm/186378192943?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:54,Samsung Galaxy S22 5G SM-S901U1 128GB 256GB Unlocked Good,,,Free shipping,https://www.ebay.com/itm/186378192943?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$153.95
+2026-11-13 08:48:54,,,,,,$153.95
+2026-11-13 08:48:54,,,,,,
+2026-11-13 08:48:54,Apple iPhone 15 Pro Max 256GB Unlocked - Very Good,,,Free shipping,https://www.ebay.com/itm/406184999028?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$554.95
+2026-11-13 08:48:54,,,,,https://www.ebay.com/itm/406184999028?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:54,Apple iPhone 15 Pro Max 256GB Unlocked - Very Good,,,Free shipping,https://www.ebay.com/itm/406184999028?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$554.95
+2026-11-13 08:48:54,,,,,,$554.95
+2026-11-13 08:48:54,,,,,,
+2026-11-13 08:48:55,"Apple iPad 7 10.2"" (7th Gen 2019) (Wi-Fi) 32GB Space Gray - Good",,$600.00,,https://www.ebay.com/itm/196037526807?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$89.00
+2026-11-13 08:48:55,,,,,https://www.ebay.com/itm/196037526807?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:55,"Apple iPad 7 10.2"" (7th Gen 2019) (Wi-Fi) 32GB Space Gray - Good",,$600.00,,https://www.ebay.com/itm/196037526807?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$89.00
+2026-11-13 08:48:55,,,,,,$89.00
+2026-11-13 08:48:55,,,$600.00,,,
+2026-11-13 08:48:55,,,,,,
+2026-11-13 08:48:55,Apple iPhone 12 64GB 128GB 256GB Unlocked Smartphone - Good,,,Free shipping,https://www.ebay.com/itm/156833155405?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$176.99
+2026-11-13 08:48:55,,,,,https://www.ebay.com/itm/156833155405?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:55,Apple iPhone 12 64GB 128GB 256GB Unlocked Smartphone - Good,,,Free shipping,https://www.ebay.com/itm/156833155405?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$176.99
+2026-11-13 08:48:55,,,,,,$176.99
+2026-11-13 08:48:55,,,,,,
+2026-11-13 08:48:55,"Apple iPhone 17 Pro Max 6.9"" - 256GB - US Version - Fully Unlocked - Excellent",,,Free shipping,https://www.ebay.com/itm/406845932977?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,"$1,029.99"
+2026-11-13 08:48:55,,,,,https://www.ebay.com/itm/406845932977?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:55,"Apple iPhone 17 Pro Max 6.9"" - 256GB - US Version - Fully Unlocked - Excellent",,,Free shipping,https://www.ebay.com/itm/406845932977?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,"$1,029.99"
+2026-11-13 08:48:55,,,,,,"$1,029.99"
+2026-11-13 08:48:55,,,,,,
 2026-11-13 08:48:55,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Open Box,,"$1,419.99",Free shipping,https://www.ebay.com/itm/257571663748?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$697.99
-2026-11-13 08:48:55,N/A,,N/A,N/A,https://www.ebay.com/itm/257571663748?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 08:48:55,,,,,https://www.ebay.com/itm/257571663748?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
 2026-11-13 08:48:55,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Open Box,,"$1,419.99",Free shipping,https://www.ebay.com/itm/257571663748?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$697.99
-2026-11-13 08:48:55,N/A,,N/A,N/A,N/A,$697.99
-2026-11-13 08:48:55,N/A,,"$1,419.99",N/A,N/A,N/A
-2026-11-13 08:48:55,"Acer Predator Helios Neo 16 16"" Intel Ultra 9 275HX 16GB 1TB RTX 5070 Ti Refurb",,"$1,849.99",N/A,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,"$1,818.17"
-2026-11-13 08:48:55,N/A,,N/A,N/A,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:55,"Acer Predator Helios Neo 16 16"" Intel Ultra 9 275HX 16GB 1TB RTX 5070 Ti Refurb",,"$1,849.99",N/A,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,"$1,818.17"
-2026-11-13 08:48:55,N/A,,N/A,N/A,N/A,"$1,818.17"
-2026-11-13 08:48:56,N/A,,"$1,849.99",N/A,N/A,N/A
-2026-11-13 08:48:56,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:56,Samsung Galaxy S23+ 256GB S916U Unlocked - Good,,N/A,Free shipping,https://www.ebay.com/itm/256372558330?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$247.99
-2026-11-13 08:48:56,N/A,,N/A,N/A,https://www.ebay.com/itm/256372558330?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:56,Samsung Galaxy S23+ 256GB S916U Unlocked - Good,,N/A,Free shipping,https://www.ebay.com/itm/256372558330?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$247.99
-2026-11-13 08:48:56,N/A,,N/A,N/A,N/A,$247.99
-2026-11-13 08:48:56,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:56,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",N/A,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$989.99
-2026-11-13 08:48:56,N/A,,N/A,N/A,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:56,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",N/A,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$989.99
-2026-11-13 08:48:56,N/A,,N/A,N/A,N/A,$989.99
-2026-11-13 08:48:56,N/A,,"$1,199.00",N/A,N/A,N/A
-2026-11-13 08:48:56,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:56,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Excellent,,N/A,Free shipping,https://www.ebay.com/itm/257189836660?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$676.99
-2026-11-13 08:48:56,N/A,,N/A,N/A,https://www.ebay.com/itm/257189836660?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:56,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Excellent,,N/A,Free shipping,https://www.ebay.com/itm/257189836660?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$676.99
-2026-11-13 08:48:56,N/A,,N/A,N/A,N/A,$676.99
-2026-11-13 08:48:56,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:48:55,,,,,,$697.99
+2026-11-13 08:48:55,,,"$1,419.99",,,
+2026-11-13 08:48:55,"Acer Predator Helios Neo 16 16"" Intel Ultra 9 275HX 16GB 1TB RTX 5070 Ti Refurb",,"$1,849.99",,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,"$1,818.17"
+2026-11-13 08:48:55,,,,,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:55,"Acer Predator Helios Neo 16 16"" Intel Ultra 9 275HX 16GB 1TB RTX 5070 Ti Refurb",,"$1,849.99",,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,"$1,818.17"
+2026-11-13 08:48:55,,,,,,"$1,818.17"
+2026-11-13 08:48:56,,,"$1,849.99",,,
+2026-11-13 08:48:56,,,,,,
+2026-11-13 08:48:56,Samsung Galaxy S23+ 256GB S916U Unlocked - Good,,,Free shipping,https://www.ebay.com/itm/256372558330?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$247.99
+2026-11-13 08:48:56,,,,,https://www.ebay.com/itm/256372558330?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:56,Samsung Galaxy S23+ 256GB S916U Unlocked - Good,,,Free shipping,https://www.ebay.com/itm/256372558330?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$247.99
+2026-11-13 08:48:56,,,,,,$247.99
+2026-11-13 08:48:56,,,,,,
+2026-11-13 08:48:56,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$989.99
+2026-11-13 08:48:56,,,,,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:56,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$989.99
+2026-11-13 08:48:56,,,,,,$989.99
+2026-11-13 08:48:56,,,"$1,199.00",,,
+2026-11-13 08:48:56,,,,,,
+2026-11-13 08:48:56,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Excellent,,,Free shipping,https://www.ebay.com/itm/257189836660?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$676.99
+2026-11-13 08:48:56,,,,,https://www.ebay.com/itm/257189836660?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:56,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Excellent,,,Free shipping,https://www.ebay.com/itm/257189836660?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$676.99
+2026-11-13 08:48:56,,,,,,$676.99
+2026-11-13 08:48:56,,,,,,
 2026-11-13 08:48:56,"Samsung Odyssey 32"" G5 QHD Curved Monitor 165Hz 1000R 1ms Black LS32CG554ENXZA",,$349.99,Free shipping,https://www.ebay.com/itm/365833789297?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$149.99
-2026-11-13 08:48:56,N/A,,N/A,N/A,https://www.ebay.com/itm/365833789297?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 08:48:56,,,,,https://www.ebay.com/itm/365833789297?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
 2026-11-13 08:48:56,"Samsung Odyssey 32"" G5 QHD Curved Monitor 165Hz 1000R 1ms Black LS32CG554ENXZA",,$349.99,Free shipping,https://www.ebay.com/itm/365833789297?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$149.99
-2026-11-13 08:48:56,N/A,,N/A,N/A,N/A,$149.99
-2026-11-13 08:48:56,N/A,,$349.99,N/A,N/A,N/A
-2026-11-13 08:48:56,Apple AirPods 4 w Active Noise Cancellation & True Wireless White MXP93LL/A 2024,,$179.99,N/A,https://www.ebay.com/itm/366736242307?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$86.99
-2026-11-13 08:48:56,N/A,,N/A,N/A,https://www.ebay.com/itm/366736242307?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:57,Apple AirPods 4 w Active Noise Cancellation & True Wireless White MXP93LL/A 2024,,$179.99,N/A,https://www.ebay.com/itm/366736242307?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$86.99
-2026-11-13 08:48:57,N/A,,N/A,N/A,N/A,$86.99
-2026-11-13 08:48:57,N/A,,$179.99,N/A,N/A,N/A
-2026-11-13 08:48:57,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:57,Microsoft Xbox Series X Console Black 1TB - Excellent w/ Controller + Cables,,N/A,Free shipping,https://www.ebay.com/itm/276436990056?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$714.99
-2026-11-13 08:48:57,N/A,,N/A,N/A,https://www.ebay.com/itm/276436990056?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:57,Microsoft Xbox Series X Console Black 1TB - Excellent w/ Controller + Cables,,N/A,Free shipping,https://www.ebay.com/itm/276436990056?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$714.99
-2026-11-13 08:48:57,N/A,,N/A,N/A,N/A,$714.99
-2026-11-13 08:48:57,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:57,"Acer Swift Go 16 AI 16"" OLED Intel Core Ultra 5 322 16GB 512GB SSD Refurbished",,$749.99,N/A,https://www.ebay.com/itm/257533096037?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$613.63
-2026-11-13 08:48:57,N/A,,N/A,N/A,https://www.ebay.com/itm/257533096037?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:57,"Acer Swift Go 16 AI 16"" OLED Intel Core Ultra 5 322 16GB 512GB SSD Refurbished",,$749.99,N/A,https://www.ebay.com/itm/257533096037?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$613.63
-2026-11-13 08:48:57,N/A,,N/A,N/A,N/A,$613.63
-2026-11-13 08:48:57,N/A,,$749.99,N/A,N/A,N/A
-2026-11-13 08:48:57,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:48:56,,,,,,$149.99
+2026-11-13 08:48:56,,,$349.99,,,
+2026-11-13 08:48:56,Apple AirPods 4 w Active Noise Cancellation & True Wireless White MXP93LL/A 2024,,$179.99,,https://www.ebay.com/itm/366736242307?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$86.99
+2026-11-13 08:48:56,,,,,https://www.ebay.com/itm/366736242307?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:57,Apple AirPods 4 w Active Noise Cancellation & True Wireless White MXP93LL/A 2024,,$179.99,,https://www.ebay.com/itm/366736242307?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$86.99
+2026-11-13 08:48:57,,,,,,$86.99
+2026-11-13 08:48:57,,,$179.99,,,
+2026-11-13 08:48:57,,,,,,
+2026-11-13 08:48:57,Microsoft Xbox Series X Console Black 1TB - Excellent w/ Controller + Cables,,,Free shipping,https://www.ebay.com/itm/276436990056?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$714.99
+2026-11-13 08:48:57,,,,,https://www.ebay.com/itm/276436990056?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:57,Microsoft Xbox Series X Console Black 1TB - Excellent w/ Controller + Cables,,,Free shipping,https://www.ebay.com/itm/276436990056?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$714.99
+2026-11-13 08:48:57,,,,,,$714.99
+2026-11-13 08:48:57,,,,,,
+2026-11-13 08:48:57,"Acer Swift Go 16 AI 16"" OLED Intel Core Ultra 5 322 16GB 512GB SSD Refurbished",,$749.99,,https://www.ebay.com/itm/257533096037?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$613.63
+2026-11-13 08:48:57,,,,,https://www.ebay.com/itm/257533096037?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:57,"Acer Swift Go 16 AI 16"" OLED Intel Core Ultra 5 322 16GB 512GB SSD Refurbished",,$749.99,,https://www.ebay.com/itm/257533096037?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$613.63
+2026-11-13 08:48:57,,,,,,$613.63
+2026-11-13 08:48:57,,,$749.99,,,
+2026-11-13 08:48:57,,,,,,
 2026-11-13 08:48:57,Anker MagGo 3-in-1 Qi2 Wireless Charging Station B2557J11-1 | Black - Open Box,,$109.99,Free shipping,https://www.ebay.com/itm/128109940260?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$33.17
-2026-11-13 08:48:57,N/A,,N/A,N/A,https://www.ebay.com/itm/128109940260?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 08:48:57,,,,,https://www.ebay.com/itm/128109940260?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
 2026-11-13 08:48:57,Anker MagGo 3-in-1 Qi2 Wireless Charging Station B2557J11-1 | Black - Open Box,,$109.99,Free shipping,https://www.ebay.com/itm/128109940260?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$33.17
-2026-11-13 08:48:57,N/A,,N/A,N/A,N/A,$33.17
-2026-11-13 08:48:58,N/A,,$109.99,N/A,N/A,N/A
-2026-11-13 08:48:58,"Acer Nitro ED340CUR X 34"" 3440x1440 200Hz 300Nit 1ms 75x75 Curved Refurbished",,$449.99,N/A,https://www.ebay.com/itm/257230569576?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$194.31
-2026-11-13 08:48:58,N/A,,N/A,N/A,https://www.ebay.com/itm/257230569576?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:58,"Acer Nitro ED340CUR X 34"" 3440x1440 200Hz 300Nit 1ms 75x75 Curved Refurbished",,$449.99,N/A,https://www.ebay.com/itm/257230569576?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$194.31
-2026-11-13 08:48:58,N/A,,N/A,N/A,N/A,$194.31
-2026-11-13 08:48:58,N/A,,$449.99,N/A,N/A,N/A
-2026-11-13 08:48:58,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:58,Samsung Galaxy S24 Ultra 512GB S928U Unlocked - Good,,N/A,Free shipping,https://www.ebay.com/itm/256652847329?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$523.99
-2026-11-13 08:48:58,N/A,,N/A,N/A,https://www.ebay.com/itm/256652847329?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:58,Samsung Galaxy S24 Ultra 512GB S928U Unlocked - Good,,N/A,Free shipping,https://www.ebay.com/itm/256652847329?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$523.99
-2026-11-13 08:48:58,N/A,,N/A,N/A,N/A,$523.99
-2026-11-13 08:48:58,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:58,Apple iPhone 14 128GB - 5G Fully Unlocked - VERY GOOD Condition,,N/A,Free shipping,https://www.ebay.com/itm/226447947273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$274.99
-2026-11-13 08:48:58,N/A,,N/A,N/A,https://www.ebay.com/itm/226447947273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:58,Apple iPhone 14 128GB - 5G Fully Unlocked - VERY GOOD Condition,,N/A,Free shipping,https://www.ebay.com/itm/226447947273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$274.99
-2026-11-13 08:48:58,N/A,,N/A,N/A,N/A,$274.99
-2026-11-13 08:48:58,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:58,Netac DDR4 32GB 16GB DDR4 3200MHz UDIMM C16 Desktop Internal Memory RAM Kit,,N/A,Free shipping,https://www.ebay.com/itm/318837491185?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$105.99
-2026-11-13 08:48:58,N/A,,N/A,N/A,https://www.ebay.com/itm/318837491185?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:58,Netac DDR4 32GB 16GB DDR4 3200MHz UDIMM C16 Desktop Internal Memory RAM Kit,,N/A,Free shipping,https://www.ebay.com/itm/318837491185?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$105.99
-2026-11-13 08:48:58,N/A,,N/A,N/A,N/A,$105.99
-2026-11-13 08:48:58,VSeeBox V6 Plus Free Shipping Authorized Dealer 30-Day Satisfaction Guarantee,,N/A,Free shipping,https://www.ebay.com/itm/267740611778?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$300.00
-2026-11-13 08:48:58,N/A,,N/A,N/A,https://www.ebay.com/itm/267740611778?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:58,VSeeBox V6 Plus Free Shipping Authorized Dealer 30-Day Satisfaction Guarantee,,N/A,Free shipping,https://www.ebay.com/itm/267740611778?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$300.00
-2026-11-13 08:48:58,N/A,,N/A,N/A,N/A,$300.00
-2026-11-13 08:48:59,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,N/A,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$295.99
-2026-11-13 08:48:59,N/A,,N/A,N/A,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:59,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,N/A,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$295.99
-2026-11-13 08:48:59,N/A,,N/A,N/A,N/A,$295.99
-2026-11-13 08:48:59,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:59,Corsair CX750M 750W 80+ Bronze Semi-Modular ATX Power Supply Certified Refurb,,N/A,Free shipping,https://www.ebay.com/itm/227515968430?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$43.41
-2026-11-13 08:48:59,N/A,,N/A,N/A,https://www.ebay.com/itm/227515968430?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:59,Corsair CX750M 750W 80+ Bronze Semi-Modular ATX Power Supply Certified Refurb,,N/A,Free shipping,https://www.ebay.com/itm/227515968430?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$43.41
-2026-11-13 08:48:59,N/A,,N/A,N/A,N/A,$43.41
-2026-11-13 08:48:59,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:59,NVIDIA Tesla V100S 32GB HBM2 PCIe GPU Accelerator AI Compute GPU Tested Pull,,N/A,Free shipping,https://www.ebay.com/itm/128055053904?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$999.95
-2026-11-13 08:48:59,N/A,,N/A,N/A,https://www.ebay.com/itm/128055053904?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:59,NVIDIA Tesla V100S 32GB HBM2 PCIe GPU Accelerator AI Compute GPU Tested Pull,,N/A,Free shipping,https://www.ebay.com/itm/128055053904?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$999.95
-2026-11-13 08:48:59,N/A,,N/A,N/A,N/A,$999.95
-2026-11-13 08:48:59,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:59,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Good,,N/A,Free shipping,https://www.ebay.com/itm/257437440196?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$628.99
-2026-11-13 08:48:59,N/A,,N/A,N/A,https://www.ebay.com/itm/257437440196?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:59,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Good,,N/A,Free shipping,https://www.ebay.com/itm/257437440196?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$628.99
-2026-11-13 08:48:59,N/A,,N/A,N/A,N/A,$628.99
-2026-11-13 08:48:59,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:48:59,Samsung Galaxy S25 Ultra 1TB S938U Unlocked - Excellent,,"$1,659.99",N/A,https://www.ebay.com/itm/257189836679?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$799.99
-2026-11-13 08:48:59,N/A,,N/A,N/A,https://www.ebay.com/itm/257189836679?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:48:59,Samsung Galaxy S25 Ultra 1TB S938U Unlocked - Excellent,,"$1,659.99",N/A,https://www.ebay.com/itm/257189836679?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$799.99
-2026-11-13 08:48:59,N/A,,N/A,N/A,N/A,$799.99
-2026-11-13 08:48:59,N/A,,"$1,659.99",N/A,N/A,N/A
-2026-11-13 08:49:00,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:48:57,,,,,,$33.17
+2026-11-13 08:48:58,,,$109.99,,,
+2026-11-13 08:48:58,"Acer Nitro ED340CUR X 34"" 3440x1440 200Hz 300Nit 1ms 75x75 Curved Refurbished",,$449.99,,https://www.ebay.com/itm/257230569576?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$194.31
+2026-11-13 08:48:58,,,,,https://www.ebay.com/itm/257230569576?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:58,"Acer Nitro ED340CUR X 34"" 3440x1440 200Hz 300Nit 1ms 75x75 Curved Refurbished",,$449.99,,https://www.ebay.com/itm/257230569576?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$194.31
+2026-11-13 08:48:58,,,,,,$194.31
+2026-11-13 08:48:58,,,$449.99,,,
+2026-11-13 08:48:58,,,,,,
+2026-11-13 08:48:58,Samsung Galaxy S24 Ultra 512GB S928U Unlocked - Good,,,Free shipping,https://www.ebay.com/itm/256652847329?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$523.99
+2026-11-13 08:48:58,,,,,https://www.ebay.com/itm/256652847329?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:58,Samsung Galaxy S24 Ultra 512GB S928U Unlocked - Good,,,Free shipping,https://www.ebay.com/itm/256652847329?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$523.99
+2026-11-13 08:48:58,,,,,,$523.99
+2026-11-13 08:48:58,,,,,,
+2026-11-13 08:48:58,Apple iPhone 14 128GB - 5G Fully Unlocked - VERY GOOD Condition,,,Free shipping,https://www.ebay.com/itm/226447947273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$274.99
+2026-11-13 08:48:58,,,,,https://www.ebay.com/itm/226447947273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:58,Apple iPhone 14 128GB - 5G Fully Unlocked - VERY GOOD Condition,,,Free shipping,https://www.ebay.com/itm/226447947273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$274.99
+2026-11-13 08:48:58,,,,,,$274.99
+2026-11-13 08:48:58,,,,,,
+2026-11-13 08:48:58,Netac DDR4 32GB 16GB DDR4 3200MHz UDIMM C16 Desktop Internal Memory RAM Kit,,,Free shipping,https://www.ebay.com/itm/318837491185?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$105.99
+2026-11-13 08:48:58,,,,,https://www.ebay.com/itm/318837491185?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:58,Netac DDR4 32GB 16GB DDR4 3200MHz UDIMM C16 Desktop Internal Memory RAM Kit,,,Free shipping,https://www.ebay.com/itm/318837491185?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$105.99
+2026-11-13 08:48:58,,,,,,$105.99
+2026-11-13 08:48:58,VSeeBox V6 Plus Free Shipping Authorized Dealer 30-Day Satisfaction Guarantee,,,Free shipping,https://www.ebay.com/itm/267740611778?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$300.00
+2026-11-13 08:48:58,,,,,https://www.ebay.com/itm/267740611778?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:58,VSeeBox V6 Plus Free Shipping Authorized Dealer 30-Day Satisfaction Guarantee,,,Free shipping,https://www.ebay.com/itm/267740611778?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$300.00
+2026-11-13 08:48:58,,,,,,$300.00
+2026-11-13 08:48:59,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$295.99
+2026-11-13 08:48:59,,,,,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:59,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$295.99
+2026-11-13 08:48:59,,,,,,$295.99
+2026-11-13 08:48:59,,,,,,
+2026-11-13 08:48:59,Corsair CX750M 750W 80+ Bronze Semi-Modular ATX Power Supply Certified Refurb,,,Free shipping,https://www.ebay.com/itm/227515968430?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$43.41
+2026-11-13 08:48:59,,,,,https://www.ebay.com/itm/227515968430?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:59,Corsair CX750M 750W 80+ Bronze Semi-Modular ATX Power Supply Certified Refurb,,,Free shipping,https://www.ebay.com/itm/227515968430?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$43.41
+2026-11-13 08:48:59,,,,,,$43.41
+2026-11-13 08:48:59,,,,,,
+2026-11-13 08:48:59,NVIDIA Tesla V100S 32GB HBM2 PCIe GPU Accelerator AI Compute GPU Tested Pull,,,Free shipping,https://www.ebay.com/itm/128055053904?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$999.95
+2026-11-13 08:48:59,,,,,https://www.ebay.com/itm/128055053904?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:59,NVIDIA Tesla V100S 32GB HBM2 PCIe GPU Accelerator AI Compute GPU Tested Pull,,,Free shipping,https://www.ebay.com/itm/128055053904?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$999.95
+2026-11-13 08:48:59,,,,,,$999.95
+2026-11-13 08:48:59,,,,,,
+2026-11-13 08:48:59,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Good,,,Free shipping,https://www.ebay.com/itm/257437440196?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$628.99
+2026-11-13 08:48:59,,,,,https://www.ebay.com/itm/257437440196?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:59,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Good,,,Free shipping,https://www.ebay.com/itm/257437440196?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$628.99
+2026-11-13 08:48:59,,,,,,$628.99
+2026-11-13 08:48:59,,,,,,
+2026-11-13 08:48:59,Samsung Galaxy S25 Ultra 1TB S938U Unlocked - Excellent,,"$1,659.99",,https://www.ebay.com/itm/257189836679?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$799.99
+2026-11-13 08:48:59,,,,,https://www.ebay.com/itm/257189836679?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:48:59,Samsung Galaxy S25 Ultra 1TB S938U Unlocked - Excellent,,"$1,659.99",,https://www.ebay.com/itm/257189836679?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$799.99
+2026-11-13 08:48:59,,,,,,$799.99
+2026-11-13 08:48:59,,,"$1,659.99",,,
+2026-11-13 08:49:00,,,,,,
 2026-11-13 08:49:00,"Apple iPad 9 (2021) 10.2"" 64GB 256GB Space Gray Silver WiFi or Cellular - Good",,$609.00,Free shipping,https://www.ebay.com/itm/165337813141?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$171.99
-2026-11-13 08:49:00,N/A,,N/A,N/A,https://www.ebay.com/itm/165337813141?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 08:49:00,,,,,https://www.ebay.com/itm/165337813141?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
 2026-11-13 08:49:00,"Apple iPad 9 (2021) 10.2"" 64GB 256GB Space Gray Silver WiFi or Cellular - Good",,$609.00,Free shipping,https://www.ebay.com/itm/165337813141?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$171.99
-2026-11-13 08:49:00,N/A,,N/A,N/A,N/A,$171.99
-2026-11-13 08:49:00,N/A,,$609.00,N/A,N/A,N/A
-2026-11-13 08:49:00,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:00,DJI Air 3S (RC-N3) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306788552019?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$999.00
-2026-11-13 08:49:00,N/A,,N/A,N/A,https://www.ebay.com/itm/306788552019?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:49:00,DJI Air 3S (RC-N3) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306788552019?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$999.00
-2026-11-13 08:49:00,N/A,,N/A,N/A,N/A,$999.00
-2026-11-13 08:49:00,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:00,"Apple iPhone SE 3rd Gen (2022) 64/128/256GB-Unlocked -Used Excellent, All colors",,N/A,Free shipping,https://www.ebay.com/itm/235770888978?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$129.99
-2026-11-13 08:49:00,N/A,,N/A,N/A,https://www.ebay.com/itm/235770888978?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:49:00,"Apple iPhone SE 3rd Gen (2022) 64/128/256GB-Unlocked -Used Excellent, All colors",,N/A,Free shipping,https://www.ebay.com/itm/235770888978?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$129.99
-2026-11-13 08:49:00,N/A,,N/A,N/A,N/A,$129.99
-2026-11-13 08:49:00,"Seagate Exos X18 14TB ST14000NM000J 256MB SATA 6Gb/s 3.5"" Enterprise Hard Drive",,N/A,Free shipping,https://www.ebay.com/itm/227051368377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$399.99
-2026-11-13 08:49:00,N/A,,N/A,N/A,https://www.ebay.com/itm/227051368377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:49:00,"Seagate Exos X18 14TB ST14000NM000J 256MB SATA 6Gb/s 3.5"" Enterprise Hard Drive",,N/A,Free shipping,https://www.ebay.com/itm/227051368377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$399.99
-2026-11-13 08:49:00,N/A,,N/A,N/A,N/A,$399.99
-2026-11-13 08:49:00,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:00,,,,,,$171.99
+2026-11-13 08:49:00,,,$609.00,,,
+2026-11-13 08:49:00,,,,,,
+2026-11-13 08:49:00,DJI Air 3S (RC-N3) (Certified Refurbished),,,Free shipping,https://www.ebay.com/itm/306788552019?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$999.00
+2026-11-13 08:49:00,,,,,https://www.ebay.com/itm/306788552019?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:49:00,DJI Air 3S (RC-N3) (Certified Refurbished),,,Free shipping,https://www.ebay.com/itm/306788552019?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$999.00
+2026-11-13 08:49:00,,,,,,$999.00
+2026-11-13 08:49:00,,,,,,
+2026-11-13 08:49:00,"Apple iPhone SE 3rd Gen (2022) 64/128/256GB-Unlocked -Used Excellent, All colors",,,Free shipping,https://www.ebay.com/itm/235770888978?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$129.99
+2026-11-13 08:49:00,,,,,https://www.ebay.com/itm/235770888978?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:49:00,"Apple iPhone SE 3rd Gen (2022) 64/128/256GB-Unlocked -Used Excellent, All colors",,,Free shipping,https://www.ebay.com/itm/235770888978?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$129.99
+2026-11-13 08:49:00,,,,,,$129.99
+2026-11-13 08:49:00,"Seagate Exos X18 14TB ST14000NM000J 256MB SATA 6Gb/s 3.5"" Enterprise Hard Drive",,,Free shipping,https://www.ebay.com/itm/227051368377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$399.99
+2026-11-13 08:49:00,,,,,https://www.ebay.com/itm/227051368377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:49:00,"Seagate Exos X18 14TB ST14000NM000J 256MB SATA 6Gb/s 3.5"" Enterprise Hard Drive",,,Free shipping,https://www.ebay.com/itm/227051368377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$399.99
+2026-11-13 08:49:00,,,,,,$399.99
+2026-11-13 08:49:00,,,,,,
 2026-11-13 08:49:00,"Roku 43"" Class Select Series 4K LED Smart RokuTV (2026) 43R4E5",,$249.99,Free shipping,https://www.ebay.com/itm/398102572986?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$161.99
-2026-11-13 08:49:00,N/A,,N/A,N/A,https://www.ebay.com/itm/398102572986?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 08:49:00,,,,,https://www.ebay.com/itm/398102572986?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
 2026-11-13 08:49:01,"Roku 43"" Class Select Series 4K LED Smart RokuTV (2026) 43R4E5",,$249.99,Free shipping,https://www.ebay.com/itm/398102572986?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$161.99
-2026-11-13 08:49:01,N/A,,N/A,N/A,N/A,$161.99
-2026-11-13 08:49:01,N/A,,$249.99,N/A,N/A,N/A
-2026-11-13 08:49:01,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:01,Sony ULT FIELD 3 Wireless Portable Bluetooth Speaker Forest Gray SRSULT30/H,,N/A,Free shipping,https://www.ebay.com/itm/278359684858?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$89.99
-2026-11-13 08:49:01,N/A,,N/A,N/A,https://www.ebay.com/itm/278359684858?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
-2026-11-13 08:49:01,Sony ULT FIELD 3 Wireless Portable Bluetooth Speaker Forest Gray SRSULT30/H,,N/A,Free shipping,https://www.ebay.com/itm/278359684858?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$89.99
-2026-11-13 08:49:01,N/A,,N/A,N/A,N/A,$89.99
-2026-11-13 08:49:01,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:01,,,,,,$161.99
+2026-11-13 08:49:01,,,$249.99,,,
+2026-11-13 08:49:01,,,,,,
+2026-11-13 08:49:01,Sony ULT FIELD 3 Wireless Portable Bluetooth Speaker Forest Gray SRSULT30/H,,,Free shipping,https://www.ebay.com/itm/278359684858?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$89.99
+2026-11-13 08:49:01,,,,,https://www.ebay.com/itm/278359684858?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,
+2026-11-13 08:49:01,Sony ULT FIELD 3 Wireless Portable Bluetooth Speaker Forest Gray SRSULT30/H,,,Free shipping,https://www.ebay.com/itm/278359684858?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$89.99
+2026-11-13 08:49:01,,,,,,$89.99
+2026-11-13 08:49:01,,,,,,
 2026-11-13 08:49:01,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",Free shipping,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$989.99
-2026-11-13 08:49:01,N/A,,N/A,N/A,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,N/A
+2026-11-13 08:49:01,,,,,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,
 2026-11-13 08:49:01,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",Free shipping,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$989.99
-2026-11-13 08:49:01,N/A,,N/A,N/A,N/A,$989.99
-2026-11-13 08:49:01,N/A,,"$1,199.00",N/A,N/A,N/A
-2026-11-13 08:49:01,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:01,,,,,,$989.99
+2026-11-13 08:49:01,,,"$1,199.00",,,
+2026-11-13 08:49:01,,,,,,
 2026-11-13 08:49:01,Samsung Galaxy S26+ 256GB S947U Unlocked - Excellent,,"$1,099.99",Free shipping,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$657.99
-2026-11-13 08:49:01,N/A,,N/A,N/A,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,N/A
+2026-11-13 08:49:01,,,,,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,
 2026-11-13 08:49:01,Samsung Galaxy S26+ 256GB S947U Unlocked - Excellent,,"$1,099.99",Free shipping,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$657.99
-2026-11-13 08:49:01,N/A,,N/A,N/A,N/A,$657.99
-2026-11-13 08:49:01,N/A,,"$1,099.99",N/A,N/A,N/A
-2026-11-13 08:49:01,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:01,Samsung Galaxy S21 - 5G - SM- G991U1 - 128GB - FACTORY UNLOCKED - EXCELLENT,,N/A,Free shipping,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$139.99
-2026-11-13 08:49:01,N/A,,N/A,N/A,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,N/A
-2026-11-13 08:49:01,Samsung Galaxy S21 - 5G - SM- G991U1 - 128GB - FACTORY UNLOCKED - EXCELLENT,,N/A,Free shipping,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$139.99
-2026-11-13 08:49:02,N/A,,N/A,N/A,N/A,$139.99
-2026-11-13 08:49:02,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:02,"Apple iPhone 17 Pro, US Version, 256GB, eSIM, 6.3"" - Fully Unlocked - Excellent",,N/A,Free shipping,https://www.ebay.com/itm/407064013193?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$929.99
-2026-11-13 08:49:02,N/A,,N/A,N/A,https://www.ebay.com/itm/407064013193?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,N/A
-2026-11-13 08:49:02,"Apple iPhone 17 Pro, US Version, 256GB, eSIM, 6.3"" - Fully Unlocked - Excellent",,N/A,Free shipping,https://www.ebay.com/itm/407064013193?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$929.99
-2026-11-13 08:49:02,N/A,,N/A,N/A,N/A,$929.99
-2026-11-13 08:49:02,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:02,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:01,,,,,,$657.99
+2026-11-13 08:49:01,,,"$1,099.99",,,
+2026-11-13 08:49:01,,,,,,
+2026-11-13 08:49:01,Samsung Galaxy S21 - 5G - SM- G991U1 - 128GB - FACTORY UNLOCKED - EXCELLENT,,,Free shipping,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$139.99
+2026-11-13 08:49:01,,,,,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,
+2026-11-13 08:49:01,Samsung Galaxy S21 - 5G - SM- G991U1 - 128GB - FACTORY UNLOCKED - EXCELLENT,,,Free shipping,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$139.99
+2026-11-13 08:49:02,,,,,,$139.99
+2026-11-13 08:49:02,,,,,,
+2026-11-13 08:49:02,"Apple iPhone 17 Pro, US Version, 256GB, eSIM, 6.3"" - Fully Unlocked - Excellent",,,Free shipping,https://www.ebay.com/itm/407064013193?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$929.99
+2026-11-13 08:49:02,,,,,https://www.ebay.com/itm/407064013193?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,
+2026-11-13 08:49:02,"Apple iPhone 17 Pro, US Version, 256GB, eSIM, 6.3"" - Fully Unlocked - Excellent",,,Free shipping,https://www.ebay.com/itm/407064013193?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$929.99
+2026-11-13 08:49:02,,,,,,$929.99
+2026-11-13 08:49:02,,,,,,
+2026-11-13 08:49:02,,,,,,
 2026-11-13 08:49:02,"Acer Predator Helios Neo 16 16"" Intel Ultra 9 275HX 16GB 1TB RTX 5070 Ti Refurb",,"$1,849.99",Free shipping,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,"$1,818.17"
-2026-11-13 08:49:02,N/A,,N/A,N/A,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,N/A
+2026-11-13 08:49:02,,,,,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,
 2026-11-13 08:49:02,"Acer Predator Helios Neo 16 16"" Intel Ultra 9 275HX 16GB 1TB RTX 5070 Ti Refurb",,"$1,849.99",Free shipping,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,"$1,818.17"
-2026-11-13 08:49:02,N/A,,N/A,N/A,N/A,"$1,818.17"
-2026-11-13 08:49:02,N/A,,"$1,849.99",N/A,N/A,N/A
-2026-11-13 08:49:02,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:02,,,,,,"$1,818.17"
+2026-11-13 08:49:02,,,"$1,849.99",,,
+2026-11-13 08:49:02,,,,,,
 2026-11-13 08:49:02,"Acer Swift Go 16 AI 16"" Touch IPS AMD Ryzen AI 9 S400 465 32GB 1TB Win11 Refurb",,"$1,259.99",Free shipping,https://www.ebay.com/itm/257533144839?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,"$1,022.72"
-2026-11-13 08:49:02,N/A,,N/A,N/A,https://www.ebay.com/itm/257533144839?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,N/A
+2026-11-13 08:49:02,,,,,https://www.ebay.com/itm/257533144839?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,
 2026-11-13 08:49:02,"Acer Swift Go 16 AI 16"" Touch IPS AMD Ryzen AI 9 S400 465 32GB 1TB Win11 Refurb",,"$1,259.99",Free shipping,https://www.ebay.com/itm/257533144839?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,"$1,022.72"
-2026-11-13 08:49:02,N/A,,N/A,N/A,N/A,"$1,022.72"
-2026-11-13 08:49:02,N/A,,"$1,259.99",N/A,N/A,N/A
-2026-11-13 08:49:02,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:02,,,,,,"$1,022.72"
+2026-11-13 08:49:02,,,"$1,259.99",,,
+2026-11-13 08:49:02,,,,,,
 2026-11-13 08:49:02,"Dell Precision 3571 Laptop Intel Core i7-12800H RTX A1000 32GB 512GB 15.6"" W11P",,$913.99,Free shipping,https://www.ebay.com/itm/389934601702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,$769.99
-2026-11-13 08:49:02,N/A,,N/A,N/A,https://www.ebay.com/itm/389934601702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,N/A
+2026-11-13 08:49:02,,,,,https://www.ebay.com/itm/389934601702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,
 2026-11-13 08:49:02,"Dell Precision 3571 Laptop Intel Core i7-12800H RTX A1000 32GB 512GB 15.6"" W11P",,$913.99,Free shipping,https://www.ebay.com/itm/389934601702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,$769.99
-2026-11-13 08:49:02,N/A,,N/A,N/A,N/A,$769.99
-2026-11-13 08:49:03,N/A,,$913.99,N/A,N/A,N/A
-2026-11-13 08:49:03,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:02,,,,,,$769.99
+2026-11-13 08:49:03,,,$913.99,,,
+2026-11-13 08:49:03,,,,,,
 2026-11-13 08:49:03,"MSI Prestige 14 AI Studio Laptop Intel Ultra 9 185H RTX 4060 32GB 1TB 14"" W11P",,"$1,829.99",Free shipping,https://www.ebay.com/itm/298743580889?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,"$1,679.99"
-2026-11-13 08:49:03,N/A,,N/A,N/A,https://www.ebay.com/itm/298743580889?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,N/A
+2026-11-13 08:49:03,,,,,https://www.ebay.com/itm/298743580889?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,
 2026-11-13 08:49:03,"MSI Prestige 14 AI Studio Laptop Intel Ultra 9 185H RTX 4060 32GB 1TB 14"" W11P",,"$1,829.99",Free shipping,https://www.ebay.com/itm/298743580889?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,"$1,679.99"
-2026-11-13 08:49:03,N/A,,N/A,N/A,N/A,"$1,679.99"
-2026-11-13 08:49:03,N/A,,"$1,829.99",N/A,N/A,N/A
-2026-11-13 08:49:03,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:03,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:03,,,,,,"$1,679.99"
+2026-11-13 08:49:03,,,"$1,829.99",,,
+2026-11-13 08:49:03,,,,,,
+2026-11-13 08:49:03,,,,,,
 2026-11-13 08:49:03,Samsung HW-Q990F 11.1.4ch Dolby Atmos Soundbar with Subwoofer & Rear Speakers,,"$1,597.99",Free shipping,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,$891.00
-2026-11-13 08:49:03,N/A,,N/A,N/A,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,N/A
+2026-11-13 08:49:03,,,,,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,
 2026-11-13 08:49:03,Samsung HW-Q990F 11.1.4ch Dolby Atmos Soundbar with Subwoofer & Rear Speakers,,"$1,597.99",Free shipping,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,$891.00
-2026-11-13 08:49:03,N/A,,N/A,N/A,N/A,$891.00
-2026-11-13 08:49:03,N/A,,"$1,597.99",N/A,N/A,N/A
-2026-11-13 08:49:03,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:03,,,,,,$891.00
+2026-11-13 08:49:03,,,"$1,597.99",,,
+2026-11-13 08:49:03,,,,,,
 2026-11-13 08:49:03,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",,$199.00,Free shipping,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,$124.00
-2026-11-13 08:49:03,N/A,,N/A,N/A,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,N/A
+2026-11-13 08:49:03,,,,,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,
 2026-11-13 08:49:03,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",,$199.00,Free shipping,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,$124.00
-2026-11-13 08:49:03,N/A,,N/A,N/A,N/A,$124.00
-2026-11-13 08:49:03,N/A,,$199.00,N/A,N/A,N/A
-2026-11-13 08:49:03,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:03,,,,,,$124.00
+2026-11-13 08:49:03,,,$199.00,,,
+2026-11-13 08:49:03,,,,,,
 2026-11-13 08:49:03,LG 77 Inch OLED evo AI C6H 4K Smart webOS TV 2026,,"$3,596.99",Free shipping,https://www.ebay.com/itm/318853131587?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,"$1,979.99"
-2026-11-13 08:49:03,N/A,,N/A,N/A,https://www.ebay.com/itm/318853131587?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,N/A
+2026-11-13 08:49:03,,,,,https://www.ebay.com/itm/318853131587?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,
 2026-11-13 08:49:04,LG 77 Inch OLED evo AI C6H 4K Smart webOS TV 2026,,"$3,596.99",Free shipping,https://www.ebay.com/itm/318853131587?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,"$1,979.99"
-2026-11-13 08:49:04,N/A,,N/A,N/A,N/A,"$1,979.99"
-2026-11-13 08:49:04,N/A,,"$3,596.99",N/A,N/A,N/A
+2026-11-13 08:49:04,,,,,,"$1,979.99"
+2026-11-13 08:49:04,,,"$3,596.99",,,
 2026-11-13 08:49:04,"Bose TV Speaker Home Theater Soundbar, Certified Refurbished",,$279.00,Free shipping,https://www.ebay.com/itm/184706040293?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,$199.00
-2026-11-13 08:49:04,N/A,,N/A,N/A,https://www.ebay.com/itm/184706040293?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,N/A
+2026-11-13 08:49:04,,,,,https://www.ebay.com/itm/184706040293?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,
 2026-11-13 08:49:04,"Bose TV Speaker Home Theater Soundbar, Certified Refurbished",,$279.00,Free shipping,https://www.ebay.com/itm/184706040293?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,$199.00
-2026-11-13 08:49:04,N/A,,N/A,N/A,N/A,$199.00
-2026-11-13 08:49:04,N/A,,$279.00,N/A,N/A,N/A
-2026-11-13 08:49:04,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:04,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:04,DJI Air 3S Fly More Combo (RC 2) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306788560907?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,"$1,499.00"
-2026-11-13 08:49:04,N/A,,N/A,N/A,https://www.ebay.com/itm/306788560907?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,N/A
-2026-11-13 08:49:04,DJI Air 3S Fly More Combo (RC 2) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306788560907?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,"$1,499.00"
-2026-11-13 08:49:04,N/A,,N/A,N/A,N/A,"$1,499.00"
-2026-11-13 08:49:04,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:04,DJI Osmo Action 5 Pro Standard Combo (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306791886107?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,$289.00
-2026-11-13 08:49:04,N/A,,N/A,N/A,https://www.ebay.com/itm/306791886107?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,N/A
-2026-11-13 08:49:04,DJI Osmo Action 5 Pro Standard Combo (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306791886107?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,$289.00
-2026-11-13 08:49:04,N/A,,N/A,N/A,N/A,$289.00
-2026-11-13 08:49:04,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:04,,,,,,$199.00
+2026-11-13 08:49:04,,,$279.00,,,
+2026-11-13 08:49:04,,,,,,
+2026-11-13 08:49:04,,,,,,
+2026-11-13 08:49:04,DJI Air 3S Fly More Combo (RC 2) (Certified Refurbished),,,Free shipping,https://www.ebay.com/itm/306788560907?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,"$1,499.00"
+2026-11-13 08:49:04,,,,,https://www.ebay.com/itm/306788560907?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,
+2026-11-13 08:49:04,DJI Air 3S Fly More Combo (RC 2) (Certified Refurbished),,,Free shipping,https://www.ebay.com/itm/306788560907?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,"$1,499.00"
+2026-11-13 08:49:04,,,,,,"$1,499.00"
+2026-11-13 08:49:04,,,,,,
+2026-11-13 08:49:04,DJI Osmo Action 5 Pro Standard Combo (Certified Refurbished),,,Free shipping,https://www.ebay.com/itm/306791886107?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,$289.00
+2026-11-13 08:49:04,,,,,https://www.ebay.com/itm/306791886107?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,
+2026-11-13 08:49:04,DJI Osmo Action 5 Pro Standard Combo (Certified Refurbished),,,Free shipping,https://www.ebay.com/itm/306791886107?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,$289.00
+2026-11-13 08:49:04,,,,,,$289.00
+2026-11-13 08:49:04,,,,,,
 2026-11-13 08:49:04,DJI Mavic Air 2 Air 2S Intelligent Flight Battery Certified Refurbished,,$89.00,Free shipping,https://www.ebay.com/itm/304925251592?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,$65.00
-2026-11-13 08:49:04,N/A,,N/A,N/A,https://www.ebay.com/itm/304925251592?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,N/A
+2026-11-13 08:49:04,,,,,https://www.ebay.com/itm/304925251592?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,
 2026-11-13 08:49:05,DJI Mavic Air 2 Air 2S Intelligent Flight Battery Certified Refurbished,,$89.00,Free shipping,https://www.ebay.com/itm/304925251592?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,$65.00
-2026-11-13 08:49:05,N/A,,N/A,N/A,N/A,$65.00
-2026-11-13 08:49:05,N/A,,$89.00,N/A,N/A,N/A
-2026-11-13 08:49:05,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:05,DJI Air 3S Fly More Combo (RC-N3) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306788557906?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,"$1,299.00"
-2026-11-13 08:49:05,N/A,,N/A,N/A,https://www.ebay.com/itm/306788557906?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,N/A
-2026-11-13 08:49:05,DJI Air 3S Fly More Combo (RC-N3) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306788557906?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,"$1,299.00"
-2026-11-13 08:49:05,N/A,,N/A,N/A,N/A,"$1,299.00"
-2026-11-13 08:49:05,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:05,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:05,Microsoft XBOX Nano Controller,,N/A,Free shipping,https://www.ebay.com/itm/128176098273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$49.99
-2026-11-13 08:49:05,N/A,,N/A,N/A,https://www.ebay.com/itm/128176098273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,N/A
-2026-11-13 08:49:05,Microsoft XBOX Nano Controller,,N/A,Free shipping,https://www.ebay.com/itm/128176098273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$49.99
-2026-11-13 08:49:05,N/A,,N/A,N/A,N/A,$49.99
+2026-11-13 08:49:05,,,,,,$65.00
+2026-11-13 08:49:05,,,$89.00,,,
+2026-11-13 08:49:05,,,,,,
+2026-11-13 08:49:05,DJI Air 3S Fly More Combo (RC-N3) (Certified Refurbished),,,Free shipping,https://www.ebay.com/itm/306788557906?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,"$1,299.00"
+2026-11-13 08:49:05,,,,,https://www.ebay.com/itm/306788557906?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,
+2026-11-13 08:49:05,DJI Air 3S Fly More Combo (RC-N3) (Certified Refurbished),,,Free shipping,https://www.ebay.com/itm/306788557906?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,"$1,299.00"
+2026-11-13 08:49:05,,,,,,"$1,299.00"
+2026-11-13 08:49:05,,,,,,
+2026-11-13 08:49:05,,,,,,
+2026-11-13 08:49:05,Microsoft XBOX Nano Controller,,,Free shipping,https://www.ebay.com/itm/128176098273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$49.99
+2026-11-13 08:49:05,,,,,https://www.ebay.com/itm/128176098273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,
+2026-11-13 08:49:05,Microsoft XBOX Nano Controller,,,Free shipping,https://www.ebay.com/itm/128176098273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$49.99
+2026-11-13 08:49:05,,,,,,$49.99
 2026-11-13 08:49:05,G923 RACING WHEEL & PEDALS XB1,,$399.99,Free shipping,https://www.ebay.com/itm/167190628189?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$175.50
-2026-11-13 08:49:05,N/A,,N/A,N/A,https://www.ebay.com/itm/167190628189?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,N/A
+2026-11-13 08:49:05,,,,,https://www.ebay.com/itm/167190628189?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,
 2026-11-13 08:49:05,G923 RACING WHEEL & PEDALS XB1,,$399.99,Free shipping,https://www.ebay.com/itm/167190628189?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$175.50
-2026-11-13 08:49:05,N/A,,N/A,N/A,N/A,$175.50
-2026-11-13 08:49:05,N/A,,$399.99,N/A,N/A,N/A
-2026-11-13 08:49:05,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:05,,,,,,$175.50
+2026-11-13 08:49:05,,,$399.99,,,
+2026-11-13 08:49:05,,,,,,
 2026-11-13 08:49:05,"JBL Quantum 400, USB over-ear PC gaming headset with game-chat dial",,$69.97,Free shipping,https://www.ebay.com/itm/156942027009?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$39.99
-2026-11-13 08:49:05,N/A,,N/A,N/A,https://www.ebay.com/itm/156942027009?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,N/A
+2026-11-13 08:49:05,,,,,https://www.ebay.com/itm/156942027009?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,
 2026-11-13 08:49:05,"JBL Quantum 400, USB over-ear PC gaming headset with game-chat dial",,$69.97,Free shipping,https://www.ebay.com/itm/156942027009?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$39.99
-2026-11-13 08:49:05,N/A,,N/A,N/A,N/A,$39.99
-2026-11-13 08:49:06,N/A,,$69.97,N/A,N/A,N/A
-2026-11-13 08:49:06,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:05,,,,,,$39.99
+2026-11-13 08:49:06,,,$69.97,,,
+2026-11-13 08:49:06,,,,,,
 2026-11-13 08:49:06,"JBL Quantum 100, Wired over-ear gaming headset with flip-up mic",,$29.96,Free shipping,https://www.ebay.com/itm/396306942972?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$19.99
-2026-11-13 08:49:06,N/A,,N/A,N/A,https://www.ebay.com/itm/396306942972?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,N/A
+2026-11-13 08:49:06,,,,,https://www.ebay.com/itm/396306942972?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,
 2026-11-13 08:49:06,"JBL Quantum 100, Wired over-ear gaming headset with flip-up mic",,$29.96,Free shipping,https://www.ebay.com/itm/396306942972?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$19.99
-2026-11-13 08:49:06,N/A,,N/A,N/A,N/A,$19.99
-2026-11-13 08:49:06,N/A,,$29.96,N/A,N/A,N/A
-2026-11-13 08:49:06,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:06,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:06,,,,,,$19.99
+2026-11-13 08:49:06,,,$29.96,,,
+2026-11-13 08:49:06,,,,,,
+2026-11-13 08:49:06,,,,,,
 2026-11-13 08:49:06,"Apple iPad 11th Gen A16 11"" 128GB WiFi – Very Good – 1 Year Warranty",,$599.00,Free shipping,https://www.ebay.com/itm/205814519726?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$345.81
-2026-11-13 08:49:06,N/A,,N/A,N/A,https://www.ebay.com/itm/205814519726?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,N/A
+2026-11-13 08:49:06,,,,,https://www.ebay.com/itm/205814519726?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,
 2026-11-13 08:49:06,"Apple iPad 11th Gen A16 11"" 128GB WiFi – Very Good – 1 Year Warranty",,$599.00,Free shipping,https://www.ebay.com/itm/205814519726?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$345.81
-2026-11-13 08:49:06,N/A,,N/A,N/A,N/A,$345.81
-2026-11-13 08:49:06,N/A,,$599.00,N/A,N/A,N/A
-2026-11-13 08:49:06,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:06,,,,,,$345.81
+2026-11-13 08:49:06,,,$599.00,,,
+2026-11-13 08:49:06,,,,,,
 2026-11-13 08:49:06,"2021 Apple iPad Mini 6 256GB WiFi/Cellular 8.3"" - (Space Gray) A2568 w/Warranty",,$799.00,Free shipping,https://www.ebay.com/itm/358671987340?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$324.99
-2026-11-13 08:49:06,N/A,,N/A,N/A,https://www.ebay.com/itm/358671987340?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,N/A
+2026-11-13 08:49:06,,,,,https://www.ebay.com/itm/358671987340?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,
 2026-11-13 08:49:06,"2021 Apple iPad Mini 6 256GB WiFi/Cellular 8.3"" - (Space Gray) A2568 w/Warranty",,$799.00,Free shipping,https://www.ebay.com/itm/358671987340?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$324.99
-2026-11-13 08:49:06,N/A,,N/A,N/A,N/A,$324.99
-2026-11-13 08:49:06,N/A,,$799.00,N/A,N/A,N/A
-2026-11-13 08:49:06,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:06,,,,,,$324.99
+2026-11-13 08:49:06,,,$799.00,,,
+2026-11-13 08:49:06,,,,,,
 2026-11-13 08:49:06,"Apple iPad Pro 12.9"" 5th Gen 128GB 256GB 1TB 2TB Wi-Fi Or Cellular - Good",,"$1,099.00",Free shipping,https://www.ebay.com/itm/158135916263?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$474.99
-2026-11-13 08:49:06,N/A,,N/A,N/A,https://www.ebay.com/itm/158135916263?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,N/A
+2026-11-13 08:49:06,,,,,https://www.ebay.com/itm/158135916263?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,
 2026-11-13 08:49:07,"Apple iPad Pro 12.9"" 5th Gen 128GB 256GB 1TB 2TB Wi-Fi Or Cellular - Good",,"$1,099.00",Free shipping,https://www.ebay.com/itm/158135916263?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$474.99
-2026-11-13 08:49:07,N/A,,N/A,N/A,N/A,$474.99
-2026-11-13 08:49:07,N/A,,"$1,099.00",N/A,N/A,N/A
-2026-11-13 08:49:07,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:07,"reMarkable Paper Pro Color 11.8"" Wi‑Fi Tablet with Marker Plus Bundle",,N/A,Free shipping,https://www.ebay.com/itm/227481371643?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$486.00
-2026-11-13 08:49:07,N/A,,N/A,N/A,https://www.ebay.com/itm/227481371643?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,N/A
-2026-11-13 08:49:07,"reMarkable Paper Pro Color 11.8"" Wi‑Fi Tablet with Marker Plus Bundle",,N/A,Free shipping,https://www.ebay.com/itm/227481371643?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$486.00
-2026-11-13 08:49:07,N/A,,N/A,N/A,N/A,$486.00
-2026-11-13 08:49:07,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:07,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:07,"Spigen Ultra Hybrid MagFit for iPhone 18 Pro Max Case, iPhone 17 Pro Max Case",,N/A,Free shipping,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$14.99
-2026-11-13 08:49:07,N/A,,N/A,N/A,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,N/A
-2026-11-13 08:49:07,"Spigen Ultra Hybrid MagFit for iPhone 18 Pro Max Case, iPhone 17 Pro Max Case",,N/A,Free shipping,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$14.99
-2026-11-13 08:49:07,N/A,,N/A,N/A,N/A,$14.99
-2026-11-13 08:49:07,"Anker |Refurb USB-C Car Charger, iPhone 17 Car Charger, 67W 3-Port PIQ 3.0",,N/A,Free shipping,https://www.ebay.com/itm/389955435476?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$27.11
-2026-11-13 08:49:07,N/A,,N/A,N/A,https://www.ebay.com/itm/389955435476?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,N/A
-2026-11-13 08:49:07,"Anker |Refurb USB-C Car Charger, iPhone 17 Car Charger, 67W 3-Port PIQ 3.0",,N/A,Free shipping,https://www.ebay.com/itm/389955435476?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$27.11
-2026-11-13 08:49:07,N/A,,N/A,N/A,N/A,$27.11
-2026-11-13 08:49:07,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:07,"Anker Prime Charger, 160W Max 3-Port GaN Charger, for MacBook Pro Charger",,N/A,Free shipping,https://www.ebay.com/itm/800625429020?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$93.99
-2026-11-13 08:49:07,N/A,,N/A,N/A,https://www.ebay.com/itm/800625429020?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,N/A
-2026-11-13 08:49:07,"Anker Prime Charger, 160W Max 3-Port GaN Charger, for MacBook Pro Charger",,N/A,Free shipping,https://www.ebay.com/itm/800625429020?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$93.99
-2026-11-13 08:49:07,N/A,,N/A,N/A,N/A,$93.99
-2026-11-13 08:49:07,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:07,,,,,,$474.99
+2026-11-13 08:49:07,,,"$1,099.00",,,
+2026-11-13 08:49:07,,,,,,
+2026-11-13 08:49:07,"reMarkable Paper Pro Color 11.8"" Wi‑Fi Tablet with Marker Plus Bundle",,,Free shipping,https://www.ebay.com/itm/227481371643?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$486.00
+2026-11-13 08:49:07,,,,,https://www.ebay.com/itm/227481371643?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,
+2026-11-13 08:49:07,"reMarkable Paper Pro Color 11.8"" Wi‑Fi Tablet with Marker Plus Bundle",,,Free shipping,https://www.ebay.com/itm/227481371643?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$486.00
+2026-11-13 08:49:07,,,,,,$486.00
+2026-11-13 08:49:07,,,,,,
+2026-11-13 08:49:07,,,,,,
+2026-11-13 08:49:07,"Spigen Ultra Hybrid MagFit for iPhone 18 Pro Max Case, iPhone 17 Pro Max Case",,,Free shipping,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$14.99
+2026-11-13 08:49:07,,,,,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,
+2026-11-13 08:49:07,"Spigen Ultra Hybrid MagFit for iPhone 18 Pro Max Case, iPhone 17 Pro Max Case",,,Free shipping,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$14.99
+2026-11-13 08:49:07,,,,,,$14.99
+2026-11-13 08:49:07,"Anker |Refurb USB-C Car Charger, iPhone 17 Car Charger, 67W 3-Port PIQ 3.0",,,Free shipping,https://www.ebay.com/itm/389955435476?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$27.11
+2026-11-13 08:49:07,,,,,https://www.ebay.com/itm/389955435476?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,
+2026-11-13 08:49:07,"Anker |Refurb USB-C Car Charger, iPhone 17 Car Charger, 67W 3-Port PIQ 3.0",,,Free shipping,https://www.ebay.com/itm/389955435476?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$27.11
+2026-11-13 08:49:07,,,,,,$27.11
+2026-11-13 08:49:07,,,,,,
+2026-11-13 08:49:07,"Anker Prime Charger, 160W Max 3-Port GaN Charger, for MacBook Pro Charger",,,Free shipping,https://www.ebay.com/itm/800625429020?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$93.99
+2026-11-13 08:49:07,,,,,https://www.ebay.com/itm/800625429020?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,
+2026-11-13 08:49:07,"Anker Prime Charger, 160W Max 3-Port GaN Charger, for MacBook Pro Charger",,,Free shipping,https://www.ebay.com/itm/800625429020?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$93.99
+2026-11-13 08:49:07,,,,,,$93.99
+2026-11-13 08:49:07,,,,,,
 2026-11-13 08:49:08,weBoost Home MultiRoom | Factory Refurbished | Cell Signal Booster Kit (470144R),,$437.99,Free shipping,https://www.ebay.com/itm/137647200182?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$372.29
-2026-11-13 08:49:08,N/A,,N/A,N/A,https://www.ebay.com/itm/137647200182?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,N/A
+2026-11-13 08:49:08,,,,,https://www.ebay.com/itm/137647200182?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,
 2026-11-13 08:49:08,weBoost Home MultiRoom | Factory Refurbished | Cell Signal Booster Kit (470144R),,$437.99,Free shipping,https://www.ebay.com/itm/137647200182?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$372.29
-2026-11-13 08:49:08,N/A,,N/A,N/A,N/A,$372.29
-2026-11-13 08:49:08,N/A,,$437.99,N/A,N/A,N/A
-2026-11-13 08:49:08,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:08,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:08,Seagate ST24000NM000H 24TB 7200RPM SATA 6Gb/s 256MB 3.5in Enterprise Hard Drive,,N/A,Free shipping,https://www.ebay.com/itm/157069093432?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$699.99
-2026-11-13 08:49:08,N/A,,N/A,N/A,https://www.ebay.com/itm/157069093432?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,N/A
-2026-11-13 08:49:08,Seagate ST24000NM000H 24TB 7200RPM SATA 6Gb/s 256MB 3.5in Enterprise Hard Drive,,N/A,Free shipping,https://www.ebay.com/itm/157069093432?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$699.99
-2026-11-13 08:49:08,N/A,,N/A,N/A,N/A,$699.99
-2026-11-13 08:49:08,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:08,Netac 2TB 1TB 500GB Internal SSD M.2 NVMe PCIe3.0 Solid State Drive lot,,N/A,Free shipping,https://www.ebay.com/itm/314583757070?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$55.00
-2026-11-13 08:49:08,N/A,,N/A,N/A,https://www.ebay.com/itm/314583757070?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,N/A
-2026-11-13 08:49:08,Netac 2TB 1TB 500GB Internal SSD M.2 NVMe PCIe3.0 Solid State Drive lot,,N/A,Free shipping,https://www.ebay.com/itm/314583757070?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$55.00
-2026-11-13 08:49:08,N/A,,N/A,N/A,N/A,$55.00
-2026-11-13 08:49:08,Netac M.2 2280 1TB PCIe3.0 NVMe 1.4 3D NAND Internal Solid State Drive,,N/A,Free shipping,https://www.ebay.com/itm/314675451357?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$140.00
-2026-11-13 08:49:08,N/A,,N/A,N/A,https://www.ebay.com/itm/314675451357?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,N/A
-2026-11-13 08:49:08,Netac M.2 2280 1TB PCIe3.0 NVMe 1.4 3D NAND Internal Solid State Drive,,N/A,Free shipping,https://www.ebay.com/itm/314675451357?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$140.00
-2026-11-13 08:49:08,N/A,,N/A,N/A,N/A,$140.00
-2026-11-13 08:49:08,Netac 512GB M.2 2280 Internal SSD PCIe Gen3x4 NVMe Solid State Drive 2500MB/s,,N/A,Free shipping,https://www.ebay.com/itm/315784988628?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$75.99
-2026-11-13 08:49:08,N/A,,N/A,N/A,https://www.ebay.com/itm/315784988628?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,N/A
-2026-11-13 08:49:08,Netac 512GB M.2 2280 Internal SSD PCIe Gen3x4 NVMe Solid State Drive 2500MB/s,,N/A,Free shipping,https://www.ebay.com/itm/315784988628?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$75.99
-2026-11-13 08:49:08,N/A,,N/A,N/A,N/A,$75.99
-2026-11-13 08:49:09,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:09,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,N/A,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$295.99
-2026-11-13 08:49:09,N/A,,N/A,N/A,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,N/A
-2026-11-13 08:49:09,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,N/A,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$295.99
-2026-11-13 08:49:09,N/A,,N/A,N/A,N/A,$295.99
-2026-11-13 08:49:09,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:08,,,,,,$372.29
+2026-11-13 08:49:08,,,$437.99,,,
+2026-11-13 08:49:08,,,,,,
+2026-11-13 08:49:08,,,,,,
+2026-11-13 08:49:08,Seagate ST24000NM000H 24TB 7200RPM SATA 6Gb/s 256MB 3.5in Enterprise Hard Drive,,,Free shipping,https://www.ebay.com/itm/157069093432?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$699.99
+2026-11-13 08:49:08,,,,,https://www.ebay.com/itm/157069093432?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,
+2026-11-13 08:49:08,Seagate ST24000NM000H 24TB 7200RPM SATA 6Gb/s 256MB 3.5in Enterprise Hard Drive,,,Free shipping,https://www.ebay.com/itm/157069093432?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$699.99
+2026-11-13 08:49:08,,,,,,$699.99
+2026-11-13 08:49:08,,,,,,
+2026-11-13 08:49:08,Netac 2TB 1TB 500GB Internal SSD M.2 NVMe PCIe3.0 Solid State Drive lot,,,Free shipping,https://www.ebay.com/itm/314583757070?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$55.00
+2026-11-13 08:49:08,,,,,https://www.ebay.com/itm/314583757070?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,
+2026-11-13 08:49:08,Netac 2TB 1TB 500GB Internal SSD M.2 NVMe PCIe3.0 Solid State Drive lot,,,Free shipping,https://www.ebay.com/itm/314583757070?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$55.00
+2026-11-13 08:49:08,,,,,,$55.00
+2026-11-13 08:49:08,Netac M.2 2280 1TB PCIe3.0 NVMe 1.4 3D NAND Internal Solid State Drive,,,Free shipping,https://www.ebay.com/itm/314675451357?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$140.00
+2026-11-13 08:49:08,,,,,https://www.ebay.com/itm/314675451357?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,
+2026-11-13 08:49:08,Netac M.2 2280 1TB PCIe3.0 NVMe 1.4 3D NAND Internal Solid State Drive,,,Free shipping,https://www.ebay.com/itm/314675451357?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$140.00
+2026-11-13 08:49:08,,,,,,$140.00
+2026-11-13 08:49:08,Netac 512GB M.2 2280 Internal SSD PCIe Gen3x4 NVMe Solid State Drive 2500MB/s,,,Free shipping,https://www.ebay.com/itm/315784988628?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$75.99
+2026-11-13 08:49:08,,,,,https://www.ebay.com/itm/315784988628?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,
+2026-11-13 08:49:08,Netac 512GB M.2 2280 Internal SSD PCIe Gen3x4 NVMe Solid State Drive 2500MB/s,,,Free shipping,https://www.ebay.com/itm/315784988628?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$75.99
+2026-11-13 08:49:08,,,,,,$75.99
+2026-11-13 08:49:09,,,,,,
+2026-11-13 08:49:09,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$295.99
+2026-11-13 08:49:09,,,,,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,
+2026-11-13 08:49:09,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$295.99
+2026-11-13 08:49:09,,,,,,$295.99
+2026-11-13 08:49:09,,,,,,
 2026-11-13 08:49:09,"Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished",,$449.00,Free shipping,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$249.00
-2026-11-13 08:49:09,N/A,,N/A,N/A,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,N/A
+2026-11-13 08:49:09,,,,,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,
 2026-11-13 08:49:09,"Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished",,$449.00,Free shipping,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$249.00
-2026-11-13 08:49:09,N/A,,N/A,N/A,N/A,$249.00
-2026-11-13 08:49:09,N/A,,$449.00,N/A,N/A,N/A
-2026-11-13 08:49:09,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:09,Sony WH-1000XM5 Wireless Noise Cancelling Headphones Silver,,N/A,Free shipping,https://www.ebay.com/itm/318849109603?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$159.99
-2026-11-13 08:49:09,N/A,,N/A,N/A,https://www.ebay.com/itm/318849109603?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,N/A
-2026-11-13 08:49:09,Sony WH-1000XM5 Wireless Noise Cancelling Headphones Silver,,N/A,Free shipping,https://www.ebay.com/itm/318849109603?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$159.99
-2026-11-13 08:49:09,N/A,,N/A,N/A,N/A,$159.99
-2026-11-13 08:49:09,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:09,,,,,,$249.00
+2026-11-13 08:49:09,,,$449.00,,,
+2026-11-13 08:49:09,,,,,,
+2026-11-13 08:49:09,Sony WH-1000XM5 Wireless Noise Cancelling Headphones Silver,,,Free shipping,https://www.ebay.com/itm/318849109603?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$159.99
+2026-11-13 08:49:09,,,,,https://www.ebay.com/itm/318849109603?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,
+2026-11-13 08:49:09,Sony WH-1000XM5 Wireless Noise Cancelling Headphones Silver,,,Free shipping,https://www.ebay.com/itm/318849109603?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$159.99
+2026-11-13 08:49:09,,,,,,$159.99
+2026-11-13 08:49:09,,,,,,
 2026-11-13 08:49:09,"Bose SoundLink Flex Portable Speaker (2nd Gen), Certified Refurbished",,$129.00,Free shipping,https://www.ebay.com/itm/158069778974?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$114.00
-2026-11-13 08:49:09,N/A,,N/A,N/A,https://www.ebay.com/itm/158069778974?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,N/A
+2026-11-13 08:49:09,,,,,https://www.ebay.com/itm/158069778974?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,
 2026-11-13 08:49:09,"Bose SoundLink Flex Portable Speaker (2nd Gen), Certified Refurbished",,$129.00,Free shipping,https://www.ebay.com/itm/158069778974?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$114.00
-2026-11-13 08:49:09,N/A,,N/A,N/A,N/A,$114.00
-2026-11-13 08:49:09,N/A,,$129.00,N/A,N/A,N/A
-2026-11-13 08:49:09,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:10,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:10,"✅Zebra ZQ620 Barcode Printer, WiFi, Bluetooth w/ Battery, Charger, Belt Clip!🔥⭐",,N/A,Free shipping,https://www.ebay.com/itm/156610834518?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$498.00
-2026-11-13 08:49:10,N/A,,N/A,N/A,https://www.ebay.com/itm/156610834518?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,N/A
-2026-11-13 08:49:10,"✅Zebra ZQ620 Barcode Printer, WiFi, Bluetooth w/ Battery, Charger, Belt Clip!🔥⭐",,N/A,Free shipping,https://www.ebay.com/itm/156610834518?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$498.00
-2026-11-13 08:49:10,N/A,,N/A,N/A,N/A,$498.00
-2026-11-13 08:49:10,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:10,Epson EcoTank ET-2988 Printer - White - Certified Refurbished,,N/A,Free shipping,https://www.ebay.com/itm/198026237563?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$169.99
-2026-11-13 08:49:10,N/A,,N/A,N/A,https://www.ebay.com/itm/198026237563?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,N/A
-2026-11-13 08:49:10,Epson EcoTank ET-2988 Printer - White - Certified Refurbished,,N/A,Free shipping,https://www.ebay.com/itm/198026237563?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$169.99
-2026-11-13 08:49:10,N/A,,N/A,N/A,N/A,$169.99
-2026-11-13 08:49:10,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:10,Epson WorkForce ES-400 II Duplex Scanner - Certified Refurbished,,N/A,Free shipping,https://www.ebay.com/itm/227527667046?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$229.99
-2026-11-13 08:49:10,N/A,,N/A,N/A,https://www.ebay.com/itm/227527667046?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,N/A
-2026-11-13 08:49:10,Epson WorkForce ES-400 II Duplex Scanner - Certified Refurbished,,N/A,Free shipping,https://www.ebay.com/itm/227527667046?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$229.99
-2026-11-13 08:49:10,N/A,,N/A,N/A,N/A,$229.99
-2026-11-13 08:49:10,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:10,Epson EcoTank ET-15000 Wide-Format Supertank Printer – Certified Refurbished,,N/A,Free shipping,https://www.ebay.com/itm/198170303842?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$439.99
-2026-11-13 08:49:10,N/A,,N/A,N/A,https://www.ebay.com/itm/198170303842?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,N/A
-2026-11-13 08:49:10,Epson EcoTank ET-15000 Wide-Format Supertank Printer – Certified Refurbished,,N/A,Free shipping,https://www.ebay.com/itm/198170303842?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$439.99
-2026-11-13 08:49:10,N/A,,N/A,N/A,N/A,$439.99
-2026-11-13 08:49:10,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:10,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:10,Black Diamond 4-Channel Amplifier Class D 3600W Full Range - DIA-P1800X4D,,N/A,Free shipping,https://www.ebay.com/itm/305665347752?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$125.97
-2026-11-13 08:49:10,N/A,,N/A,N/A,https://www.ebay.com/itm/305665347752?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,N/A
-2026-11-13 08:49:11,Black Diamond 4-Channel Amplifier Class D 3600W Full Range - DIA-P1800X4D,,N/A,Free shipping,https://www.ebay.com/itm/305665347752?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$125.97
-2026-11-13 08:49:11,N/A,,N/A,N/A,N/A,$125.97
-2026-11-13 08:49:11,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:11,🔝2026 MUCAR 892BT Bidirectional OBD2 Scanner Car System AI Diagnostic Scan Tool,,N/A,Free shipping,https://www.ebay.com/itm/396756053401?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$489.00
-2026-11-13 08:49:11,N/A,,N/A,N/A,https://www.ebay.com/itm/396756053401?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,N/A
-2026-11-13 08:49:11,🔝2026 MUCAR 892BT Bidirectional OBD2 Scanner Car System AI Diagnostic Scan Tool,,N/A,Free shipping,https://www.ebay.com/itm/396756053401?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$489.00
-2026-11-13 08:49:11,N/A,,N/A,N/A,N/A,$489.00
-2026-11-13 08:49:11,THINKCAR THINKSCAN 689BT Pro Version With Lifetime Free Updates,,N/A,Free shipping,https://www.ebay.com/itm/398280206327?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$759.00
-2026-11-13 08:49:11,N/A,,N/A,N/A,https://www.ebay.com/itm/398280206327?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,N/A
-2026-11-13 08:49:11,THINKCAR THINKSCAN 689BT Pro Version With Lifetime Free Updates,,N/A,Free shipping,https://www.ebay.com/itm/398280206327?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$759.00
-2026-11-13 08:49:11,N/A,,N/A,N/A,N/A,$759.00
-2026-11-13 08:49:11,NEW SKAR AUDIO RP-2000.1D 2800 WATT MAX POWER CLASS D MONOBLOCK SUB AMPLIFIER,,N/A,Free shipping,https://www.ebay.com/itm/185559198027?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$263.49
-2026-11-13 08:49:11,N/A,,N/A,N/A,https://www.ebay.com/itm/185559198027?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,N/A
-2026-11-13 08:49:11,NEW SKAR AUDIO RP-2000.1D 2800 WATT MAX POWER CLASS D MONOBLOCK SUB AMPLIFIER,,N/A,Free shipping,https://www.ebay.com/itm/185559198027?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$263.49
-2026-11-13 08:49:11,N/A,,N/A,N/A,N/A,$263.49
-2026-11-13 08:49:11,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:11,Sony FE 85mm F1.4 GM Full Frame E-Mount Prime Lens SEL85F14GM,,N/A,Free shipping,https://www.ebay.com/itm/278359894508?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,$999.99
-2026-11-13 08:49:11,N/A,,N/A,N/A,https://www.ebay.com/itm/278359894508?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,N/A
-2026-11-13 08:49:11,Sony FE 85mm F1.4 GM Full Frame E-Mount Prime Lens SEL85F14GM,,N/A,Free shipping,https://www.ebay.com/itm/278359894508?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,$999.99
-2026-11-13 08:49:11,N/A,,N/A,N/A,N/A,$999.99
-2026-11-13 08:49:11,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:11,Leica Noctilux-M 35mm F/1.2 ASPH. Lens Black 11635 *BRAND NEW*,,N/A,Free shipping,https://www.ebay.com/itm/317874841929?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$9,999.00"
-2026-11-13 08:49:11,N/A,,N/A,N/A,https://www.ebay.com/itm/317874841929?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,N/A
-2026-11-13 08:49:11,Leica Noctilux-M 35mm F/1.2 ASPH. Lens Black 11635 *BRAND NEW*,,N/A,Free shipping,https://www.ebay.com/itm/317874841929?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$9,999.00"
-2026-11-13 08:49:11,N/A,,N/A,N/A,N/A,"$9,999.00"
-2026-11-13 08:49:11,Sony FE 24-70mm f/2.8 GM II Lens,,N/A,Free shipping,https://www.ebay.com/itm/115483793879?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$1,796.99"
-2026-11-13 08:49:12,N/A,,N/A,N/A,https://www.ebay.com/itm/115483793879?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,N/A
-2026-11-13 08:49:12,Sony FE 24-70mm f/2.8 GM II Lens,,N/A,Free shipping,https://www.ebay.com/itm/115483793879?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$1,796.99"
-2026-11-13 08:49:12,N/A,,N/A,N/A,N/A,"$1,796.99"
-2026-11-13 08:49:12,Sony FE 24-70mm f/2.8 GM II Lens - SEL2470GM2,,N/A,Free shipping,https://www.ebay.com/itm/295042253957?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$1,869.00"
-2026-11-13 08:49:12,N/A,,N/A,N/A,https://www.ebay.com/itm/295042253957?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,N/A
-2026-11-13 08:49:12,Sony FE 24-70mm f/2.8 GM II Lens - SEL2470GM2,,N/A,Free shipping,https://www.ebay.com/itm/295042253957?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$1,869.00"
-2026-11-13 08:49:12,N/A,,N/A,N/A,N/A,"$1,869.00"
-2026-11-13 08:49:12,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:09,,,,,,$114.00
+2026-11-13 08:49:09,,,$129.00,,,
+2026-11-13 08:49:09,,,,,,
+2026-11-13 08:49:10,,,,,,
+2026-11-13 08:49:10,"✅Zebra ZQ620 Barcode Printer, WiFi, Bluetooth w/ Battery, Charger, Belt Clip!🔥⭐",,,Free shipping,https://www.ebay.com/itm/156610834518?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$498.00
+2026-11-13 08:49:10,,,,,https://www.ebay.com/itm/156610834518?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,
+2026-11-13 08:49:10,"✅Zebra ZQ620 Barcode Printer, WiFi, Bluetooth w/ Battery, Charger, Belt Clip!🔥⭐",,,Free shipping,https://www.ebay.com/itm/156610834518?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$498.00
+2026-11-13 08:49:10,,,,,,$498.00
+2026-11-13 08:49:10,,,,,,
+2026-11-13 08:49:10,Epson EcoTank ET-2988 Printer - White - Certified Refurbished,,,Free shipping,https://www.ebay.com/itm/198026237563?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$169.99
+2026-11-13 08:49:10,,,,,https://www.ebay.com/itm/198026237563?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,
+2026-11-13 08:49:10,Epson EcoTank ET-2988 Printer - White - Certified Refurbished,,,Free shipping,https://www.ebay.com/itm/198026237563?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$169.99
+2026-11-13 08:49:10,,,,,,$169.99
+2026-11-13 08:49:10,,,,,,
+2026-11-13 08:49:10,Epson WorkForce ES-400 II Duplex Scanner - Certified Refurbished,,,Free shipping,https://www.ebay.com/itm/227527667046?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$229.99
+2026-11-13 08:49:10,,,,,https://www.ebay.com/itm/227527667046?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,
+2026-11-13 08:49:10,Epson WorkForce ES-400 II Duplex Scanner - Certified Refurbished,,,Free shipping,https://www.ebay.com/itm/227527667046?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$229.99
+2026-11-13 08:49:10,,,,,,$229.99
+2026-11-13 08:49:10,,,,,,
+2026-11-13 08:49:10,Epson EcoTank ET-15000 Wide-Format Supertank Printer – Certified Refurbished,,,Free shipping,https://www.ebay.com/itm/198170303842?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$439.99
+2026-11-13 08:49:10,,,,,https://www.ebay.com/itm/198170303842?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,
+2026-11-13 08:49:10,Epson EcoTank ET-15000 Wide-Format Supertank Printer – Certified Refurbished,,,Free shipping,https://www.ebay.com/itm/198170303842?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$439.99
+2026-11-13 08:49:10,,,,,,$439.99
+2026-11-13 08:49:10,,,,,,
+2026-11-13 08:49:10,,,,,,
+2026-11-13 08:49:10,Black Diamond 4-Channel Amplifier Class D 3600W Full Range - DIA-P1800X4D,,,Free shipping,https://www.ebay.com/itm/305665347752?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$125.97
+2026-11-13 08:49:10,,,,,https://www.ebay.com/itm/305665347752?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,
+2026-11-13 08:49:11,Black Diamond 4-Channel Amplifier Class D 3600W Full Range - DIA-P1800X4D,,,Free shipping,https://www.ebay.com/itm/305665347752?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$125.97
+2026-11-13 08:49:11,,,,,,$125.97
+2026-11-13 08:49:11,,,,,,
+2026-11-13 08:49:11,🔝2026 MUCAR 892BT Bidirectional OBD2 Scanner Car System AI Diagnostic Scan Tool,,,Free shipping,https://www.ebay.com/itm/396756053401?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$489.00
+2026-11-13 08:49:11,,,,,https://www.ebay.com/itm/396756053401?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,
+2026-11-13 08:49:11,🔝2026 MUCAR 892BT Bidirectional OBD2 Scanner Car System AI Diagnostic Scan Tool,,,Free shipping,https://www.ebay.com/itm/396756053401?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$489.00
+2026-11-13 08:49:11,,,,,,$489.00
+2026-11-13 08:49:11,THINKCAR THINKSCAN 689BT Pro Version With Lifetime Free Updates,,,Free shipping,https://www.ebay.com/itm/398280206327?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$759.00
+2026-11-13 08:49:11,,,,,https://www.ebay.com/itm/398280206327?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,
+2026-11-13 08:49:11,THINKCAR THINKSCAN 689BT Pro Version With Lifetime Free Updates,,,Free shipping,https://www.ebay.com/itm/398280206327?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$759.00
+2026-11-13 08:49:11,,,,,,$759.00
+2026-11-13 08:49:11,NEW SKAR AUDIO RP-2000.1D 2800 WATT MAX POWER CLASS D MONOBLOCK SUB AMPLIFIER,,,Free shipping,https://www.ebay.com/itm/185559198027?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$263.49
+2026-11-13 08:49:11,,,,,https://www.ebay.com/itm/185559198027?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,
+2026-11-13 08:49:11,NEW SKAR AUDIO RP-2000.1D 2800 WATT MAX POWER CLASS D MONOBLOCK SUB AMPLIFIER,,,Free shipping,https://www.ebay.com/itm/185559198027?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$263.49
+2026-11-13 08:49:11,,,,,,$263.49
+2026-11-13 08:49:11,,,,,,
+2026-11-13 08:49:11,Sony FE 85mm F1.4 GM Full Frame E-Mount Prime Lens SEL85F14GM,,,Free shipping,https://www.ebay.com/itm/278359894508?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,$999.99
+2026-11-13 08:49:11,,,,,https://www.ebay.com/itm/278359894508?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,
+2026-11-13 08:49:11,Sony FE 85mm F1.4 GM Full Frame E-Mount Prime Lens SEL85F14GM,,,Free shipping,https://www.ebay.com/itm/278359894508?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,$999.99
+2026-11-13 08:49:11,,,,,,$999.99
+2026-11-13 08:49:11,,,,,,
+2026-11-13 08:49:11,Leica Noctilux-M 35mm F/1.2 ASPH. Lens Black 11635 *BRAND NEW*,,,Free shipping,https://www.ebay.com/itm/317874841929?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$9,999.00"
+2026-11-13 08:49:11,,,,,https://www.ebay.com/itm/317874841929?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,
+2026-11-13 08:49:11,Leica Noctilux-M 35mm F/1.2 ASPH. Lens Black 11635 *BRAND NEW*,,,Free shipping,https://www.ebay.com/itm/317874841929?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$9,999.00"
+2026-11-13 08:49:11,,,,,,"$9,999.00"
+2026-11-13 08:49:11,Sony FE 24-70mm f/2.8 GM II Lens,,,Free shipping,https://www.ebay.com/itm/115483793879?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$1,796.99"
+2026-11-13 08:49:12,,,,,https://www.ebay.com/itm/115483793879?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,
+2026-11-13 08:49:12,Sony FE 24-70mm f/2.8 GM II Lens,,,Free shipping,https://www.ebay.com/itm/115483793879?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$1,796.99"
+2026-11-13 08:49:12,,,,,,"$1,796.99"
+2026-11-13 08:49:12,Sony FE 24-70mm f/2.8 GM II Lens - SEL2470GM2,,,Free shipping,https://www.ebay.com/itm/295042253957?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$1,869.00"
+2026-11-13 08:49:12,,,,,https://www.ebay.com/itm/295042253957?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,
+2026-11-13 08:49:12,Sony FE 24-70mm f/2.8 GM II Lens - SEL2470GM2,,,Free shipping,https://www.ebay.com/itm/295042253957?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$1,869.00"
+2026-11-13 08:49:12,,,,,,"$1,869.00"
+2026-11-13 08:49:12,,,,,,
 2026-11-13 08:49:12,Samsung HW-Q990F 11.1.4ch Dolby Atmos Soundbar with Subwoofer & Rear Speakers,,"$1,597.99",Free shipping,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$891.00
-2026-11-13 08:49:12,N/A,,N/A,N/A,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,N/A
+2026-11-13 08:49:12,,,,,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,
 2026-11-13 08:49:12,Samsung HW-Q990F 11.1.4ch Dolby Atmos Soundbar with Subwoofer & Rear Speakers,,"$1,597.99",Free shipping,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$891.00
-2026-11-13 08:49:12,N/A,,N/A,N/A,N/A,$891.00
-2026-11-13 08:49:12,N/A,,"$1,597.99",N/A,N/A,N/A
-2026-11-13 08:49:12,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:12,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,N/A,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$295.99
-2026-11-13 08:49:12,N/A,,N/A,N/A,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,N/A
-2026-11-13 08:49:12,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,N/A,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$295.99
-2026-11-13 08:49:12,N/A,,N/A,N/A,N/A,$295.99
-2026-11-13 08:49:12,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:12,,,,,,$891.00
+2026-11-13 08:49:12,,,"$1,597.99",,,
+2026-11-13 08:49:12,,,,,,
+2026-11-13 08:49:12,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$295.99
+2026-11-13 08:49:12,,,,,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,
+2026-11-13 08:49:12,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$295.99
+2026-11-13 08:49:12,,,,,,$295.99
+2026-11-13 08:49:12,,,,,,
 2026-11-13 08:49:12,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",,$199.00,Free shipping,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$124.00
-2026-11-13 08:49:12,N/A,,N/A,N/A,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,N/A
+2026-11-13 08:49:12,,,,,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,
 2026-11-13 08:49:12,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",,$199.00,Free shipping,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$124.00
-2026-11-13 08:49:12,N/A,,N/A,N/A,N/A,$124.00
-2026-11-13 08:49:12,N/A,,$199.00,N/A,N/A,N/A
-2026-11-13 08:49:12,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:12,,,,,,$124.00
+2026-11-13 08:49:12,,,$199.00,,,
+2026-11-13 08:49:12,,,,,,
 2026-11-13 08:49:12,"Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished",,$449.00,Free shipping,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$249.00
-2026-11-13 08:49:13,N/A,,N/A,N/A,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,N/A
+2026-11-13 08:49:13,,,,,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,
 2026-11-13 08:49:13,"Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished",,$449.00,Free shipping,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$249.00
-2026-11-13 08:49:13,N/A,,N/A,N/A,N/A,$249.00
-2026-11-13 08:49:13,N/A,,$449.00,N/A,N/A,N/A
-2026-11-13 08:49:13,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:13,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:13,,,,,,$249.00
+2026-11-13 08:49:13,,,$449.00,,,
+2026-11-13 08:49:13,,,,,,
+2026-11-13 08:49:13,,,,,,
 2026-11-13 08:49:13,OEM Apple Pencil Pro Charges & Pairs Magnetically - Excellent,,$129.00,Free shipping,https://www.ebay.com/itm/406493840204?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$79.99
-2026-11-13 08:49:13,N/A,,N/A,N/A,https://www.ebay.com/itm/406493840204?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,N/A
+2026-11-13 08:49:13,,,,,https://www.ebay.com/itm/406493840204?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,
 2026-11-13 08:49:13,OEM Apple Pencil Pro Charges & Pairs Magnetically - Excellent,,$129.00,Free shipping,https://www.ebay.com/itm/406493840204?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$79.99
-2026-11-13 08:49:13,N/A,,N/A,N/A,N/A,$79.99
-2026-11-13 08:49:13,N/A,,$129.00,N/A,N/A,N/A
-2026-11-13 08:49:13,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:13,,,,,,$79.99
+2026-11-13 08:49:13,,,$129.00,,,
+2026-11-13 08:49:13,,,,,,
 2026-11-13 08:49:13,NEW Apple Pencil 2nd Generation iPad Pro Stylus MU8F2AM/A,,$79.99,Free shipping,https://www.ebay.com/itm/176942634649?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$55.99
-2026-11-13 08:49:13,N/A,,N/A,N/A,https://www.ebay.com/itm/176942634649?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,N/A
+2026-11-13 08:49:13,,,,,https://www.ebay.com/itm/176942634649?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,
 2026-11-13 08:49:13,NEW Apple Pencil 2nd Generation iPad Pro Stylus MU8F2AM/A,,$79.99,Free shipping,https://www.ebay.com/itm/176942634649?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$55.99
-2026-11-13 08:49:13,N/A,,N/A,N/A,N/A,$55.99
-2026-11-13 08:49:13,N/A,,$79.99,N/A,N/A,N/A
-2026-11-13 08:49:13,"Apple Pencil Pro Stylus for iPad Pro M4-M5, iPad Air M2-M4, iPad mini A17 Pro",,N/A,Free shipping,https://www.ebay.com/itm/366685316712?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$99.00
-2026-11-13 08:49:13,N/A,,N/A,N/A,https://www.ebay.com/itm/366685316712?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,N/A
-2026-11-13 08:49:13,"Apple Pencil Pro Stylus for iPad Pro M4-M5, iPad Air M2-M4, iPad mini A17 Pro",,N/A,Free shipping,https://www.ebay.com/itm/366685316712?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$99.00
-2026-11-13 08:49:13,N/A,,N/A,N/A,N/A,$99.00
+2026-11-13 08:49:13,,,,,,$55.99
+2026-11-13 08:49:13,,,$79.99,,,
+2026-11-13 08:49:13,"Apple Pencil Pro Stylus for iPad Pro M4-M5, iPad Air M2-M4, iPad mini A17 Pro",,,Free shipping,https://www.ebay.com/itm/366685316712?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$99.00
+2026-11-13 08:49:13,,,,,https://www.ebay.com/itm/366685316712?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,
+2026-11-13 08:49:13,"Apple Pencil Pro Stylus for iPad Pro M4-M5, iPad Air M2-M4, iPad mini A17 Pro",,,Free shipping,https://www.ebay.com/itm/366685316712?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$99.00
+2026-11-13 08:49:13,,,,,,$99.00
 2026-11-13 08:49:13,"ASUS ZenWiFi BD5 Dual-Band WiFi 7 Mesh, 5000 Mbps, Coverage up to 6800 sq",,$349.99,Free shipping,https://www.ebay.com/itm/168674086052?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$149.99
-2026-11-13 08:49:13,N/A,,N/A,N/A,https://www.ebay.com/itm/168674086052?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,N/A
+2026-11-13 08:49:13,,,,,https://www.ebay.com/itm/168674086052?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,
 2026-11-13 08:49:13,"ASUS ZenWiFi BD5 Dual-Band WiFi 7 Mesh, 5000 Mbps, Coverage up to 6800 sq",,$349.99,Free shipping,https://www.ebay.com/itm/168674086052?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$149.99
-2026-11-13 08:49:13,N/A,,N/A,N/A,N/A,$149.99
-2026-11-13 08:49:13,N/A,,$349.99,N/A,N/A,N/A
-2026-11-13 08:49:13,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:14,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:13,,,,,,$149.99
+2026-11-13 08:49:13,,,$349.99,,,
+2026-11-13 08:49:13,,,,,,
+2026-11-13 08:49:14,,,,,,
 2026-11-13 08:49:14,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",Free shipping,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$989.99
-2026-11-13 08:49:14,N/A,,N/A,N/A,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,N/A
+2026-11-13 08:49:14,,,,,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,
 2026-11-13 08:49:14,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",Free shipping,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$989.99
-2026-11-13 08:49:14,N/A,,N/A,N/A,N/A,$989.99
-2026-11-13 08:49:14,N/A,,"$1,199.00",N/A,N/A,N/A
-2026-11-13 08:49:14,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:14,,,,,,$989.99
+2026-11-13 08:49:14,,,"$1,199.00",,,
+2026-11-13 08:49:14,,,,,,
 2026-11-13 08:49:14,Samsung Galaxy S26+ 256GB S947U Unlocked - Excellent,,"$1,099.99",Free shipping,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$657.99
-2026-11-13 08:49:14,N/A,,N/A,N/A,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,N/A
+2026-11-13 08:49:14,,,,,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,
 2026-11-13 08:49:14,Samsung Galaxy S26+ 256GB S947U Unlocked - Excellent,,"$1,099.99",Free shipping,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$657.99
-2026-11-13 08:49:14,N/A,,N/A,N/A,N/A,$657.99
-2026-11-13 08:49:14,N/A,,"$1,099.99",N/A,N/A,N/A
-2026-11-13 08:49:14,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:14,Samsung Galaxy S21 - 5G - SM- G991U1 - 128GB - FACTORY UNLOCKED - EXCELLENT,,N/A,Free shipping,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$139.99
-2026-11-13 08:49:14,N/A,,N/A,N/A,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,N/A
-2026-11-13 08:49:14,Samsung Galaxy S21 - 5G - SM- G991U1 - 128GB - FACTORY UNLOCKED - EXCELLENT,,N/A,Free shipping,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$139.99
-2026-11-13 08:49:14,N/A,,N/A,N/A,N/A,$139.99
-2026-11-13 08:49:14,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:14,"Spigen Ultra Hybrid MagFit for iPhone 18 Pro Max Case, iPhone 17 Pro Max Case",,N/A,Free shipping,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$14.99
-2026-11-13 08:49:14,N/A,,N/A,N/A,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,N/A
-2026-11-13 08:49:14,"Spigen Ultra Hybrid MagFit for iPhone 18 Pro Max Case, iPhone 17 Pro Max Case",,N/A,Free shipping,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$14.99
-2026-11-13 08:49:14,N/A,,N/A,N/A,N/A,$14.99
-2026-11-13 08:49:14,N/A,,N/A,N/A,N/A,N/A
-2026-11-13 08:49:14,NVIDIA/HP Tesla V100 PG500-216 32GB HBM2 Data Center AI HPC Accelerator GPU,,N/A,Free shipping,https://www.ebay.com/itm/127832735377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$949.00
-2026-11-13 08:49:14,N/A,,N/A,N/A,https://www.ebay.com/itm/127832735377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,N/A
-2026-11-13 08:49:14,NVIDIA/HP Tesla V100 PG500-216 32GB HBM2 Data Center AI HPC Accelerator GPU,,N/A,Free shipping,https://www.ebay.com/itm/127832735377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$949.00
-2026-11-13 08:49:15,N/A,,N/A,N/A,N/A,$949.00
-2026-11-13 08:49:15,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:14,,,,,,$657.99
+2026-11-13 08:49:14,,,"$1,099.99",,,
+2026-11-13 08:49:14,,,,,,
+2026-11-13 08:49:14,Samsung Galaxy S21 - 5G - SM- G991U1 - 128GB - FACTORY UNLOCKED - EXCELLENT,,,Free shipping,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$139.99
+2026-11-13 08:49:14,,,,,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,
+2026-11-13 08:49:14,Samsung Galaxy S21 - 5G - SM- G991U1 - 128GB - FACTORY UNLOCKED - EXCELLENT,,,Free shipping,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$139.99
+2026-11-13 08:49:14,,,,,,$139.99
+2026-11-13 08:49:14,,,,,,
+2026-11-13 08:49:14,"Spigen Ultra Hybrid MagFit for iPhone 18 Pro Max Case, iPhone 17 Pro Max Case",,,Free shipping,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$14.99
+2026-11-13 08:49:14,,,,,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,
+2026-11-13 08:49:14,"Spigen Ultra Hybrid MagFit for iPhone 18 Pro Max Case, iPhone 17 Pro Max Case",,,Free shipping,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$14.99
+2026-11-13 08:49:14,,,,,,$14.99
+2026-11-13 08:49:14,,,,,,
+2026-11-13 08:49:14,NVIDIA/HP Tesla V100 PG500-216 32GB HBM2 Data Center AI HPC Accelerator GPU,,,Free shipping,https://www.ebay.com/itm/127832735377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$949.00
+2026-11-13 08:49:14,,,,,https://www.ebay.com/itm/127832735377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,
+2026-11-13 08:49:14,NVIDIA/HP Tesla V100 PG500-216 32GB HBM2 Data Center AI HPC Accelerator GPU,,,Free shipping,https://www.ebay.com/itm/127832735377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$949.00
+2026-11-13 08:49:15,,,,,,$949.00
+2026-11-13 08:49:15,,,,,,
 2026-11-13 08:49:15,"Acer Nitro ED340CUR X 34"" 3440x1440 200Hz 300Nit 1ms 75x75 Curved Refurbished",,$449.99,Free shipping,https://www.ebay.com/itm/257230569576?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$194.31
-2026-11-13 08:49:15,N/A,,N/A,N/A,https://www.ebay.com/itm/257230569576?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,N/A
+2026-11-13 08:49:15,,,,,https://www.ebay.com/itm/257230569576?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,
 2026-11-13 08:49:15,"Acer Nitro ED340CUR X 34"" 3440x1440 200Hz 300Nit 1ms 75x75 Curved Refurbished",,$449.99,Free shipping,https://www.ebay.com/itm/257230569576?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$194.31
-2026-11-13 08:49:15,N/A,,N/A,N/A,N/A,$194.31
-2026-11-13 08:49:15,N/A,,$449.99,N/A,N/A,N/A
-2026-11-13 08:49:15,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:15,,,,,,$194.31
+2026-11-13 08:49:15,,,$449.99,,,
+2026-11-13 08:49:15,,,,,,
 2026-11-13 08:49:15,"Netgear Orbi 970 Quad-Band WiFi 7 Mesh System, Router + 2 Satellites-Refurbished",,"$1,799.99",Free shipping,https://www.ebay.com/itm/136689000538?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,"$1,099.99"
-2026-11-13 08:49:15,N/A,,N/A,N/A,https://www.ebay.com/itm/136689000538?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,N/A
+2026-11-13 08:49:15,,,,,https://www.ebay.com/itm/136689000538?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,
 2026-11-13 08:49:15,"Netgear Orbi 970 Quad-Band WiFi 7 Mesh System, Router + 2 Satellites-Refurbished",,"$1,799.99",Free shipping,https://www.ebay.com/itm/136689000538?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,"$1,099.99"
-2026-11-13 08:49:15,N/A,,N/A,N/A,N/A,"$1,099.99"
-2026-11-13 08:49:15,N/A,,"$1,799.99",N/A,N/A,N/A
-2026-11-13 08:49:15,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:15,,,,,,"$1,099.99"
+2026-11-13 08:49:15,,,"$1,799.99",,,
+2026-11-13 08:49:15,,,,,,
 2026-11-13 08:49:15,Deco Gear 49 inch Curved Ultrawide 5K Monitor - 120Hz; 101% NTSC; 100% sRGB - Op,,"$1,099.95",Free shipping,https://www.ebay.com/itm/335445914215?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$445.99
-2026-11-13 08:49:15,N/A,,N/A,N/A,https://www.ebay.com/itm/335445914215?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,N/A
+2026-11-13 08:49:15,,,,,https://www.ebay.com/itm/335445914215?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,
 2026-11-13 08:49:15,Deco Gear 49 inch Curved Ultrawide 5K Monitor - 120Hz; 101% NTSC; 100% sRGB - Op,,"$1,099.95",Free shipping,https://www.ebay.com/itm/335445914215?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$445.99
-2026-11-13 08:49:15,N/A,,N/A,N/A,N/A,$445.99
-2026-11-13 08:49:15,N/A,,"$1,099.95",N/A,N/A,N/A
-2026-11-13 08:49:15,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 08:49:15,,,,,,$445.99
+2026-11-13 08:49:15,,,"$1,099.95",,,
+2026-11-13 08:49:15,,,,,,
+2026-11-13 16:09:30,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Excellent,,N/A,Free shipping,https://www.ebay.com/itm/257189836660?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$676.99
+2026-11-13 16:09:30,N/A,,N/A,N/A,https://www.ebay.com/itm/257189836660?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:30,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Excellent,,N/A,Free shipping,https://www.ebay.com/itm/257189836660?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$676.99
+2026-11-13 16:09:30,N/A,,N/A,N/A,N/A,$676.99
+2026-11-13 16:09:30,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:30,STARLINK - Standard 4 X AX Tri Band Wi-Fi System - White,,$349.99,Free shipping,https://www.ebay.com/itm/197923485817?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:30,N/A,,N/A,N/A,https://www.ebay.com/itm/197923485817?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:30,STARLINK - Standard 4 X AX Tri Band Wi-Fi System - White,,$349.99,Free shipping,https://www.ebay.com/itm/197923485817?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:30,N/A,,N/A,N/A,https://www.ebay.com/itm/197923485817?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:30,N/A,,$349.99,N/A,N/A,N/A
+2026-11-13 16:09:30,Apple AirPods Pro 3rd Wireless Active Noise Cancelling Earbuds - White MFHP4LL/A,,$249.00,N/A,https://www.ebay.com/itm/366736231992?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$136.99
+2026-11-13 16:09:30,N/A,,N/A,N/A,https://www.ebay.com/itm/366736231992?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:30,Apple AirPods Pro 3rd Wireless Active Noise Cancelling Earbuds - White MFHP4LL/A,,$249.00,N/A,https://www.ebay.com/itm/366736231992?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$136.99
+2026-11-13 16:09:30,N/A,,N/A,N/A,N/A,$136.99
+2026-11-13 16:09:30,N/A,,$249.00,N/A,N/A,N/A
+2026-11-13 16:09:30,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:30,"HP - OmniBook 3 - 16"" 2K Touchscreen Laptop - AMD Ryzen 5 40 - 16GB Memory - ...",,N/A,Free shipping,https://www.ebay.com/itm/198221150114?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$879.99
+2026-11-13 16:09:31,N/A,,N/A,N/A,https://www.ebay.com/itm/198221150114?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:31,"HP - OmniBook 3 - 16"" 2K Touchscreen Laptop - AMD Ryzen 5 40 - 16GB Memory - ...",,N/A,Free shipping,https://www.ebay.com/itm/198221150114?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$879.99
+2026-11-13 16:09:31,N/A,,N/A,N/A,N/A,$879.99
+2026-11-13 16:09:31,Apple iPhone 12 64GB 128GB 256GB Unlocked Smartphone - Good,,N/A,Free shipping,https://www.ebay.com/itm/156833155405?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$176.99
+2026-11-13 16:09:31,N/A,,N/A,N/A,https://www.ebay.com/itm/156833155405?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:31,Apple iPhone 12 64GB 128GB 256GB Unlocked Smartphone - Good,,N/A,Free shipping,https://www.ebay.com/itm/156833155405?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$176.99
+2026-11-13 16:09:31,N/A,,N/A,N/A,N/A,$176.99
+2026-11-13 16:09:31,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:31,"Acer Aspire 16 AI 16"" Intel Ultra 5 226V 16GB RAM 1TB SSD Intel Arc Refurbished",,"$1,049.99",N/A,https://www.ebay.com/itm/257503592006?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$534.08
+2026-11-13 16:09:31,N/A,,N/A,N/A,https://www.ebay.com/itm/257503592006?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:31,"Acer Aspire 16 AI 16"" Intel Ultra 5 226V 16GB RAM 1TB SSD Intel Arc Refurbished",,"$1,049.99",N/A,https://www.ebay.com/itm/257503592006?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$534.08
+2026-11-13 16:09:31,N/A,,N/A,N/A,N/A,$534.08
+2026-11-13 16:09:31,N/A,,"$1,049.99",N/A,N/A,N/A
+2026-11-13 16:09:31,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:31,Apple iPhone 15 Pro Max 256GB Unlocked - Very Good,,N/A,Free shipping,https://www.ebay.com/itm/406184999028?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$554.95
+2026-11-13 16:09:31,N/A,,N/A,N/A,https://www.ebay.com/itm/406184999028?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:31,Apple iPhone 15 Pro Max 256GB Unlocked - Very Good,,N/A,Free shipping,https://www.ebay.com/itm/406184999028?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$554.95
+2026-11-13 16:09:31,N/A,,N/A,N/A,N/A,$554.95
+2026-11-13 16:09:31,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:31,Apple iPhone 13 128GB Fully Unlocked - Very Good Condition,,N/A,Free shipping,https://www.ebay.com/itm/226523060489?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$256.99
+2026-11-13 16:09:31,N/A,,N/A,N/A,https://www.ebay.com/itm/226523060489?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:31,Apple iPhone 13 128GB Fully Unlocked - Very Good Condition,,N/A,Free shipping,https://www.ebay.com/itm/226523060489?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$256.99
+2026-11-13 16:09:31,N/A,,N/A,N/A,N/A,$256.99
+2026-11-13 16:09:31,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:31,vSeeBox V6 Pro Smart TV Box Voice Remote Authorized Distributor Free Shipping,,$359.00,Free shipping,https://www.ebay.com/itm/800359296282?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$272.84
+2026-11-13 16:09:31,N/A,,N/A,N/A,https://www.ebay.com/itm/800359296282?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:31,vSeeBox V6 Pro Smart TV Box Voice Remote Authorized Distributor Free Shipping,,$359.00,Free shipping,https://www.ebay.com/itm/800359296282?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$272.84
+2026-11-13 16:09:31,N/A,,N/A,N/A,N/A,$272.84
+2026-11-13 16:09:31,N/A,,$359.00,N/A,N/A,N/A
+2026-11-13 16:09:31,Apple iPhone 13 128GB FACTORY UNLOCKED CDMA + GSM - EXCELLENT,,N/A,Free shipping,https://www.ebay.com/itm/116996574826?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$229.48
+2026-11-13 16:09:31,N/A,,N/A,N/A,https://www.ebay.com/itm/116996574826?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:31,Apple iPhone 13 128GB FACTORY UNLOCKED CDMA + GSM - EXCELLENT,,N/A,Free shipping,https://www.ebay.com/itm/116996574826?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$229.48
+2026-11-13 16:09:31,N/A,,N/A,N/A,N/A,$229.48
+2026-11-13 16:09:32,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:32,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Open Box,,"$1,419.99",Free shipping,https://www.ebay.com/itm/257571663748?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$697.99
+2026-11-13 16:09:32,N/A,,N/A,N/A,https://www.ebay.com/itm/257571663748?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:32,Samsung Galaxy S25 Ultra 512GB S938U Unlocked - Open Box,,"$1,419.99",Free shipping,https://www.ebay.com/itm/257571663748?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$697.99
+2026-11-13 16:09:32,N/A,,N/A,N/A,N/A,$697.99
+2026-11-13 16:09:32,N/A,,"$1,419.99",N/A,N/A,N/A
+2026-11-13 16:09:32,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",N/A,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$989.99
+2026-11-13 16:09:32,N/A,,N/A,N/A,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:32,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",N/A,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$989.99
+2026-11-13 16:09:32,N/A,,N/A,N/A,N/A,$989.99
+2026-11-13 16:09:32,N/A,,"$1,199.00",N/A,N/A,N/A
+2026-11-13 16:09:32,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:32,"Acer Predator Helios Neo 16 16"" Intel Ultra 9 275HX 16GB 1TB RTX 5070 Ti Refurb",,"$1,849.99",N/A,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,"$1,818.17"
+2026-11-13 16:09:32,N/A,,N/A,N/A,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:32,"Acer Predator Helios Neo 16 16"" Intel Ultra 9 275HX 16GB 1TB RTX 5070 Ti Refurb",,"$1,849.99",N/A,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,"$1,818.17"
+2026-11-13 16:09:32,N/A,,N/A,N/A,N/A,"$1,818.17"
+2026-11-13 16:09:32,N/A,,"$1,849.99",N/A,N/A,N/A
+2026-11-13 16:09:32,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:32,"Seagate 14TB Exos X14 7200RPM SATA 6Gb/s 256MB 3.5"" Enterprise HDD ST14000NM0408",,$399.99,N/A,https://www.ebay.com/itm/178549441126?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$344.99
+2026-11-13 16:09:32,N/A,,N/A,N/A,https://www.ebay.com/itm/178549441126?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:32,"Seagate 14TB Exos X14 7200RPM SATA 6Gb/s 256MB 3.5"" Enterprise HDD ST14000NM0408",,$399.99,N/A,https://www.ebay.com/itm/178549441126?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$344.99
+2026-11-13 16:09:32,N/A,,N/A,N/A,N/A,$344.99
+2026-11-13 16:09:32,N/A,,$399.99,N/A,N/A,N/A
+2026-11-13 16:09:32,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:32,Unclaimed Mail Mystery Box - 20 Undelivered Package - No Return Mail&NEW STUFF,,N/A,Free shipping,https://www.ebay.com/itm/117424689039?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$35.99
+2026-11-13 16:09:32,N/A,,N/A,N/A,https://www.ebay.com/itm/117424689039?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:32,Unclaimed Mail Mystery Box - 20 Undelivered Package - No Return Mail&NEW STUFF,,N/A,Free shipping,https://www.ebay.com/itm/117424689039?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$35.99
+2026-11-13 16:09:32,N/A,,N/A,N/A,N/A,$35.99
+2026-11-13 16:09:32,Lenovo ThinkPad T14s Gen 4 i7 13th Gen 32GB 512GB SSD Windows 11 Pro,,N/A,Free shipping,https://www.ebay.com/itm/198467254609?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$499.99
+2026-11-13 16:09:32,N/A,,N/A,N/A,https://www.ebay.com/itm/198467254609?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:32,Lenovo ThinkPad T14s Gen 4 i7 13th Gen 32GB 512GB SSD Windows 11 Pro,,N/A,Free shipping,https://www.ebay.com/itm/198467254609?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$499.99
+2026-11-13 16:09:32,N/A,,N/A,N/A,N/A,$499.99
+2026-11-13 16:09:33,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:33,Apple AirPods 4 w Active Noise Cancellation & True Wireless White MXP93LL/A 2024,,$179.99,N/A,https://www.ebay.com/itm/366736242307?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$86.99
+2026-11-13 16:09:33,N/A,,N/A,N/A,https://www.ebay.com/itm/366736242307?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:33,Apple AirPods 4 w Active Noise Cancellation & True Wireless White MXP93LL/A 2024,,$179.99,N/A,https://www.ebay.com/itm/366736242307?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$86.99
+2026-11-13 16:09:33,N/A,,N/A,N/A,N/A,$86.99
+2026-11-13 16:09:33,N/A,,$179.99,N/A,N/A,N/A
+2026-11-13 16:09:33,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:33,Samsung Galaxy S23 Ultra 512GB S918U Unlocked - Very Good,,"$1,379.99",N/A,https://www.ebay.com/itm/256613651818?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$428.99
+2026-11-13 16:09:33,N/A,,N/A,N/A,https://www.ebay.com/itm/256613651818?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:33,Samsung Galaxy S23 Ultra 512GB S918U Unlocked - Very Good,,"$1,379.99",N/A,https://www.ebay.com/itm/256613651818?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$428.99
+2026-11-13 16:09:33,N/A,,N/A,N/A,N/A,$428.99
+2026-11-13 16:09:33,N/A,,"$1,379.99",N/A,N/A,N/A
+2026-11-13 16:09:33,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:33,"Acer Swift Go 16 AI 16"" OLED Intel Core Ultra 5 322 16GB 512GB SSD Refurbished",,$749.99,N/A,https://www.ebay.com/itm/257533096037?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$613.63
+2026-11-13 16:09:33,N/A,,N/A,N/A,https://www.ebay.com/itm/257533096037?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:33,"Acer Swift Go 16 AI 16"" OLED Intel Core Ultra 5 322 16GB 512GB SSD Refurbished",,$749.99,N/A,https://www.ebay.com/itm/257533096037?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$613.63
+2026-11-13 16:09:33,N/A,,N/A,N/A,N/A,$613.63
+2026-11-13 16:09:33,N/A,,$749.99,N/A,N/A,N/A
+2026-11-13 16:09:33,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:33,VSeeBox V6 Plus 30-Day Satisfaction Guarantee Fast Shipping Authorized Dealer,,N/A,Free shipping,https://www.ebay.com/itm/188717399819?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$330.00
+2026-11-13 16:09:33,N/A,,N/A,N/A,https://www.ebay.com/itm/188717399819?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:33,VSeeBox V6 Plus 30-Day Satisfaction Guarantee Fast Shipping Authorized Dealer,,N/A,Free shipping,https://www.ebay.com/itm/188717399819?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$330.00
+2026-11-13 16:09:33,N/A,,N/A,N/A,N/A,$330.00
+2026-11-13 16:09:33,GoPro MAX2 True 8K 360 Video Action Camera Bundle - Black CHDFZ-311-TH,,$569.99,Free shipping,https://www.ebay.com/itm/136844738794?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$259.99
+2026-11-13 16:09:33,N/A,,N/A,N/A,https://www.ebay.com/itm/136844738794?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:33,GoPro MAX2 True 8K 360 Video Action Camera Bundle - Black CHDFZ-311-TH,,$569.99,Free shipping,https://www.ebay.com/itm/136844738794?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$259.99
+2026-11-13 16:09:33,N/A,,N/A,N/A,N/A,$259.99
+2026-11-13 16:09:33,N/A,,$569.99,N/A,N/A,N/A
+2026-11-13 16:09:33,Samsung Galaxy S22 Ultra 128GB S908U Unlocked - Very Good,,"$1,299.00",N/A,https://www.ebay.com/itm/256363270963?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$309.99
+2026-11-13 16:09:33,N/A,,N/A,N/A,https://www.ebay.com/itm/256363270963?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:33,Samsung Galaxy S22 Ultra 128GB S908U Unlocked - Very Good,,"$1,299.00",N/A,https://www.ebay.com/itm/256363270963?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$309.99
+2026-11-13 16:09:34,N/A,,N/A,N/A,N/A,$309.99
+2026-11-13 16:09:34,N/A,,"$1,299.00",N/A,N/A,N/A
+2026-11-13 16:09:34,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:34,JBL PartyBox On-The-Go Essential Party Speaker JBLPBOTGESAM | Black - Open Box,,$379.99,Free shipping,https://www.ebay.com/itm/128159928289?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$163.58
+2026-11-13 16:09:34,N/A,,N/A,N/A,https://www.ebay.com/itm/128159928289?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:34,JBL PartyBox On-The-Go Essential Party Speaker JBLPBOTGESAM | Black - Open Box,,$379.99,Free shipping,https://www.ebay.com/itm/128159928289?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$163.58
+2026-11-13 16:09:34,N/A,,N/A,N/A,N/A,$163.58
+2026-11-13 16:09:34,N/A,,$379.99,N/A,N/A,N/A
+2026-11-13 16:09:34,Apple iPhone 14 128GB - 5G Fully Unlocked - VERY GOOD Condition,,N/A,Free shipping,https://www.ebay.com/itm/226447947273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$274.99
+2026-11-13 16:09:34,N/A,,N/A,N/A,https://www.ebay.com/itm/226447947273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:34,Apple iPhone 14 128GB - 5G Fully Unlocked - VERY GOOD Condition,,N/A,Free shipping,https://www.ebay.com/itm/226447947273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$274.99
+2026-11-13 16:09:34,N/A,,N/A,N/A,N/A,$274.99
+2026-11-13 16:09:34,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:34,Amazon Fire TV Stick 4K (2024),,$49.99,Free shipping,https://www.ebay.com/itm/178562206886?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$39.99
+2026-11-13 16:09:34,N/A,,N/A,N/A,https://www.ebay.com/itm/178562206886?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:34,Amazon Fire TV Stick 4K (2024),,$49.99,Free shipping,https://www.ebay.com/itm/178562206886?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$39.99
+2026-11-13 16:09:34,N/A,,N/A,N/A,N/A,$39.99
+2026-11-13 16:09:34,N/A,,$49.99,N/A,N/A,N/A
+2026-11-13 16:09:34,Samsung Galaxy S24 Ultra 512GB S928U Unlocked - Good,,N/A,Free shipping,https://www.ebay.com/itm/256652847329?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$523.99
+2026-11-13 16:09:34,N/A,,N/A,N/A,https://www.ebay.com/itm/256652847329?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:34,Samsung Galaxy S24 Ultra 512GB S928U Unlocked - Good,,N/A,Free shipping,https://www.ebay.com/itm/256652847329?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$523.99
+2026-11-13 16:09:34,N/A,,N/A,N/A,N/A,$523.99
+2026-11-13 16:09:34,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:34,"LG 27"" FHD HDR10 16:9 Curved Monitor 5ms GtG 100Hz - Black 27U421A-B 2026 Model",,$174.99,Free shipping,https://www.ebay.com/itm/366359151782?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$79.99
+2026-11-13 16:09:34,N/A,,N/A,N/A,https://www.ebay.com/itm/366359151782?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:35,"LG 27"" FHD HDR10 16:9 Curved Monitor 5ms GtG 100Hz - Black 27U421A-B 2026 Model",,$174.99,Free shipping,https://www.ebay.com/itm/366359151782?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$79.99
+2026-11-13 16:09:35,N/A,,N/A,N/A,N/A,$79.99
+2026-11-13 16:09:35,N/A,,$174.99,N/A,N/A,N/A
+2026-11-13 16:09:35,VSeeBox V6 Plus Free Shipping Authorized Dealer 30-Day Satisfaction Guarantee,,N/A,Free shipping,https://www.ebay.com/itm/267740611778?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$300.00
+2026-11-13 16:09:35,N/A,,N/A,N/A,https://www.ebay.com/itm/267740611778?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:35,VSeeBox V6 Plus Free Shipping Authorized Dealer 30-Day Satisfaction Guarantee,,N/A,Free shipping,https://www.ebay.com/itm/267740611778?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$300.00
+2026-11-13 16:09:35,N/A,,N/A,N/A,N/A,$300.00
+2026-11-13 16:09:35,Corsair RM850x 850W 80 Plus Gold Fully Modular Zero RPM ATX Certified Refurb,,$149.00,N/A,https://www.ebay.com/itm/227491490875?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$58.80
+2026-11-13 16:09:35,N/A,,N/A,N/A,https://www.ebay.com/itm/227491490875?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:35,Corsair RM850x 850W 80 Plus Gold Fully Modular Zero RPM ATX Certified Refurb,,$149.00,N/A,https://www.ebay.com/itm/227491490875?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$58.80
+2026-11-13 16:09:35,N/A,,N/A,N/A,N/A,$58.80
+2026-11-13 16:09:35,N/A,,$149.00,N/A,N/A,N/A
+2026-11-13 16:09:35,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:35,"Asus ROG Xbox Ally X 7"" FHD Touch AMD Ryzen AI Z2 Extreme 24GB 1TB SSD W11H, BK",,"$1,299.99",N/A,https://www.ebay.com/itm/168827336099?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$780.00
+2026-11-13 16:09:35,N/A,,N/A,N/A,https://www.ebay.com/itm/168827336099?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:35,"Asus ROG Xbox Ally X 7"" FHD Touch AMD Ryzen AI Z2 Extreme 24GB 1TB SSD W11H, BK",,"$1,299.99",N/A,https://www.ebay.com/itm/168827336099?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$780.00
+2026-11-13 16:09:35,N/A,,N/A,N/A,N/A,$780.00
+2026-11-13 16:09:35,N/A,,"$1,299.99",N/A,N/A,N/A
+2026-11-13 16:09:35,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:35,Samsung Galaxy S24 Ultra 512GB S928U Unlocked - Excellent,,N/A,Free shipping,https://www.ebay.com/itm/256754180033?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$595.99
+2026-11-13 16:09:35,N/A,,N/A,N/A,https://www.ebay.com/itm/256754180033?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:35,Samsung Galaxy S24 Ultra 512GB S928U Unlocked - Excellent,,N/A,Free shipping,https://www.ebay.com/itm/256754180033?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$595.99
+2026-11-13 16:09:35,N/A,,N/A,N/A,N/A,$595.99
+2026-11-13 16:09:35,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:35,"Bose SoundLink Max Portable Speaker, Certified Refurbished",,$319.00,Free shipping,https://www.ebay.com/itm/187576160757?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$249.00
+2026-11-13 16:09:35,N/A,,N/A,N/A,https://www.ebay.com/itm/187576160757?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:35,"Bose SoundLink Max Portable Speaker, Certified Refurbished",,$319.00,Free shipping,https://www.ebay.com/itm/187576160757?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$249.00
+2026-11-13 16:09:35,N/A,,N/A,N/A,N/A,$249.00
+2026-11-13 16:09:35,N/A,,$319.00,N/A,N/A,N/A
+2026-11-13 16:09:35,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:35,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,N/A,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$295.99
+2026-11-13 16:09:35,N/A,,N/A,N/A,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:36,Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones,,N/A,Free shipping,https://www.ebay.com/itm/278359685103?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$295.99
+2026-11-13 16:09:36,N/A,,N/A,N/A,N/A,$295.99
+2026-11-13 16:09:36,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:36,"Samsung Galaxy Tab A11+ 11"" WiFi Tablet 6GB 128GB Gray SM-X230NZAYXAR 2026 Model",,$329.99,Free shipping,https://www.ebay.com/itm/147229112770?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$179.99
+2026-11-13 16:09:36,N/A,,N/A,N/A,https://www.ebay.com/itm/147229112770?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:36,"Samsung Galaxy Tab A11+ 11"" WiFi Tablet 6GB 128GB Gray SM-X230NZAYXAR 2026 Model",,$329.99,Free shipping,https://www.ebay.com/itm/147229112770?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$179.99
+2026-11-13 16:09:36,N/A,,N/A,N/A,N/A,$179.99
+2026-11-13 16:09:36,N/A,,$329.99,N/A,N/A,N/A
+2026-11-13 16:09:36,eufy eufyCam S4 Security Solar Camera Wireless Outdoor 4K UHD Color 360 Pan/Tilt,,$349.99,Free shipping,https://www.ebay.com/itm/389788540068?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$279.99
+2026-11-13 16:09:36,N/A,,N/A,N/A,https://www.ebay.com/itm/389788540068?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:36,eufy eufyCam S4 Security Solar Camera Wireless Outdoor 4K UHD Color 360 Pan/Tilt,,$349.99,Free shipping,https://www.ebay.com/itm/389788540068?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$279.99
+2026-11-13 16:09:36,N/A,,N/A,N/A,N/A,$279.99
+2026-11-13 16:09:36,N/A,,$349.99,N/A,N/A,N/A
+2026-11-13 16:09:36,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:36,"Apple iPad 11th Gen A16 11"" 128GB WiFi – Excellent Condition – 1 Year Warranty",,$599.00,Free shipping,https://www.ebay.com/itm/187694062359?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$373.86
+2026-11-13 16:09:36,N/A,,N/A,N/A,https://www.ebay.com/itm/187694062359?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:36,"Apple iPad 11th Gen A16 11"" 128GB WiFi – Excellent Condition – 1 Year Warranty",,$599.00,Free shipping,https://www.ebay.com/itm/187694062359?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$373.86
+2026-11-13 16:09:36,N/A,,N/A,N/A,N/A,$373.86
+2026-11-13 16:09:36,N/A,,$599.00,N/A,N/A,N/A
+2026-11-13 16:09:36,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:36,"JLab Go Tones+ Bluetooth Earbuds, True Wireless, In-Ear Headphones, Refurbished",,$20.99,Free shipping,https://www.ebay.com/itm/235927161795?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$19.31
+2026-11-13 16:09:36,N/A,,N/A,N/A,https://www.ebay.com/itm/235927161795?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:36,"JLab Go Tones+ Bluetooth Earbuds, True Wireless, In-Ear Headphones, Refurbished",,$20.99,Free shipping,https://www.ebay.com/itm/235927161795?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$19.31
+2026-11-13 16:09:36,N/A,,N/A,N/A,N/A,$19.31
+2026-11-13 16:09:36,N/A,,$20.99,N/A,N/A,N/A
+2026-11-13 16:09:36,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:36,"Apple iPhone SE 3rd Gen (2022) 64/128/256GB-Unlocked -Used Excellent, All colors",,N/A,Free shipping,https://www.ebay.com/itm/235770888978?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$129.99
+2026-11-13 16:09:36,N/A,,N/A,N/A,https://www.ebay.com/itm/235770888978?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:36,"Apple iPhone SE 3rd Gen (2022) 64/128/256GB-Unlocked -Used Excellent, All colors",,N/A,Free shipping,https://www.ebay.com/itm/235770888978?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$129.99
+2026-11-13 16:09:36,N/A,,N/A,N/A,N/A,$129.99
+2026-11-13 16:09:36,"Dell/SK Hynix SE5110 3.84TB HFS3T8G3H2X069N SATA 6Gb/s 3D TLC 1 DWPD 2.5"" SSD",,N/A,Free shipping,https://www.ebay.com/itm/127912801280?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$457.00
+2026-11-13 16:09:36,N/A,,N/A,N/A,https://www.ebay.com/itm/127912801280?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:36,"Dell/SK Hynix SE5110 3.84TB HFS3T8G3H2X069N SATA 6Gb/s 3D TLC 1 DWPD 2.5"" SSD",,N/A,Free shipping,https://www.ebay.com/itm/127912801280?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$457.00
+2026-11-13 16:09:37,N/A,,N/A,N/A,N/A,$457.00
+2026-11-13 16:09:37,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:37,JBL PartyBox 130 Portable Party Speaker Black PARTYBOX130BK Bluetooth,,N/A,Free shipping,https://www.ebay.com/itm/298467563161?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$327.54
+2026-11-13 16:09:37,N/A,,N/A,N/A,https://www.ebay.com/itm/298467563161?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:37,JBL PartyBox 130 Portable Party Speaker Black PARTYBOX130BK Bluetooth,,N/A,Free shipping,https://www.ebay.com/itm/298467563161?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$327.54
+2026-11-13 16:09:37,N/A,,N/A,N/A,N/A,$327.54
+2026-11-13 16:09:37,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:37,"Onn 55"" Class 4K (2160p) LCD Smart TV (55S4V1)",,$198.00,Free shipping,https://www.ebay.com/itm/117141082719?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$149.00
+2026-11-13 16:09:37,N/A,,N/A,N/A,https://www.ebay.com/itm/117141082719?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:37,"Onn 55"" Class 4K (2160p) LCD Smart TV (55S4V1)",,$198.00,Free shipping,https://www.ebay.com/itm/117141082719?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$149.00
+2026-11-13 16:09:37,N/A,,N/A,N/A,N/A,$149.00
+2026-11-13 16:09:37,N/A,,$198.00,N/A,N/A,N/A
+2026-11-13 16:09:37,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:37,"Roku 43"" Class Select Series 4K LED Smart RokuTV (2026) 43R4E5",,$249.99,Free shipping,https://www.ebay.com/itm/398102572986?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$161.99
+2026-11-13 16:09:37,N/A,,N/A,N/A,https://www.ebay.com/itm/398102572986?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:37,"Roku 43"" Class Select Series 4K LED Smart RokuTV (2026) 43R4E5",,$249.99,Free shipping,https://www.ebay.com/itm/398102572986?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$161.99
+2026-11-13 16:09:37,N/A,,N/A,N/A,N/A,$161.99
+2026-11-13 16:09:37,N/A,,$249.99,N/A,N/A,N/A
+2026-11-13 16:09:37,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:37,"Seagate Exos X18 14TB ST14000NM000J 256MB SATA 6Gb/s 3.5"" Enterprise Hard Drive",,N/A,Free shipping,https://www.ebay.com/itm/227051368377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$399.99
+2026-11-13 16:09:37,N/A,,N/A,N/A,https://www.ebay.com/itm/227051368377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,N/A
+2026-11-13 16:09:37,"Seagate Exos X18 14TB ST14000NM000J 256MB SATA 6Gb/s 3.5"" Enterprise Hard Drive",,N/A,Free shipping,https://www.ebay.com/itm/227051368377?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006400,$399.99
+2026-11-13 16:09:37,N/A,,N/A,N/A,N/A,$399.99
+2026-11-13 16:09:37,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:37,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",Free shipping,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$989.99
+2026-11-13 16:09:37,N/A,,N/A,N/A,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,N/A
+2026-11-13 16:09:37,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",Free shipping,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$989.99
+2026-11-13 16:09:37,N/A,,N/A,N/A,N/A,$989.99
+2026-11-13 16:09:37,N/A,,"$1,199.00",N/A,N/A,N/A
+2026-11-13 16:09:37,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:37,Samsung Galaxy S26+ 256GB S947U Unlocked - Excellent,,"$1,099.99",Free shipping,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$657.99
+2026-11-13 16:09:37,N/A,,N/A,N/A,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,N/A
+2026-11-13 16:09:38,Samsung Galaxy S26+ 256GB S947U Unlocked - Excellent,,"$1,099.99",Free shipping,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$657.99
+2026-11-13 16:09:38,N/A,,N/A,N/A,N/A,$657.99
+2026-11-13 16:09:38,N/A,,"$1,099.99",N/A,N/A,N/A
+2026-11-13 16:09:38,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:38,Samsung Galaxy S21 - 5G - SM- G991U1 - 128GB - FACTORY UNLOCKED - EXCELLENT,,N/A,Free shipping,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$139.99
+2026-11-13 16:09:38,N/A,,N/A,N/A,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,N/A
+2026-11-13 16:09:38,Samsung Galaxy S21 - 5G - SM- G991U1 - 128GB - FACTORY UNLOCKED - EXCELLENT,,N/A,Free shipping,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$139.99
+2026-11-13 16:09:38,N/A,,N/A,N/A,N/A,$139.99
+2026-11-13 16:09:38,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:38,"Apple iPhone 17 Pro, US Version, 256GB, eSIM, 6.3"" - Fully Unlocked - Excellent",,N/A,Free shipping,https://www.ebay.com/itm/407064013193?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$929.99
+2026-11-13 16:09:38,N/A,,N/A,N/A,https://www.ebay.com/itm/407064013193?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,N/A
+2026-11-13 16:09:38,"Apple iPhone 17 Pro, US Version, 256GB, eSIM, 6.3"" - Fully Unlocked - Excellent",,N/A,Free shipping,https://www.ebay.com/itm/407064013193?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423,$929.99
+2026-11-13 16:09:38,N/A,,N/A,N/A,N/A,$929.99
+2026-11-13 16:09:38,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:38,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:38,"Acer Predator Helios Neo 16 16"" Intel Ultra 9 275HX 16GB 1TB RTX 5070 Ti Refurb",,"$1,849.99",Free shipping,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,"$1,818.17"
+2026-11-13 16:09:38,N/A,,N/A,N/A,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,N/A
+2026-11-13 16:09:38,"Acer Predator Helios Neo 16 16"" Intel Ultra 9 275HX 16GB 1TB RTX 5070 Ti Refurb",,"$1,849.99",Free shipping,https://www.ebay.com/itm/257348072936?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,"$1,818.17"
+2026-11-13 16:09:38,N/A,,N/A,N/A,N/A,"$1,818.17"
+2026-11-13 16:09:38,N/A,,"$1,849.99",N/A,N/A,N/A
+2026-11-13 16:09:38,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:38,"Acer Swift Go 16 AI 16"" Touch IPS AMD Ryzen AI 9 S400 465 32GB 1TB Win11 Refurb",,"$1,259.99",Free shipping,https://www.ebay.com/itm/257533144839?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,"$1,022.72"
+2026-11-13 16:09:38,N/A,,N/A,N/A,https://www.ebay.com/itm/257533144839?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,N/A
+2026-11-13 16:09:38,"Acer Swift Go 16 AI 16"" Touch IPS AMD Ryzen AI 9 S400 465 32GB 1TB Win11 Refurb",,"$1,259.99",Free shipping,https://www.ebay.com/itm/257533144839?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,"$1,022.72"
+2026-11-13 16:09:38,N/A,,N/A,N/A,N/A,"$1,022.72"
+2026-11-13 16:09:38,N/A,,"$1,259.99",N/A,N/A,N/A
+2026-11-13 16:09:38,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:38,"Dell Precision 3571 Laptop Intel Core i7-12800H RTX A1000 32GB 512GB 15.6"" W11P",,$913.99,Free shipping,https://www.ebay.com/itm/389934601702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,$769.99
+2026-11-13 16:09:38,N/A,,N/A,N/A,https://www.ebay.com/itm/389934601702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,N/A
+2026-11-13 16:09:38,"Dell Precision 3571 Laptop Intel Core i7-12800H RTX A1000 32GB 512GB 15.6"" W11P",,$913.99,Free shipping,https://www.ebay.com/itm/389934601702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,$769.99
+2026-11-13 16:09:38,N/A,,N/A,N/A,N/A,$769.99
+2026-11-13 16:09:38,N/A,,$913.99,N/A,N/A,N/A
+2026-11-13 16:09:39,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:39,"MSI Prestige 14 AI Studio Laptop Intel Ultra 9 185H RTX 4060 32GB 1TB 14"" W11P",,"$1,829.99",Free shipping,https://www.ebay.com/itm/298743580889?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,"$1,679.99"
+2026-11-13 16:09:39,N/A,,N/A,N/A,https://www.ebay.com/itm/298743580889?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,N/A
+2026-11-13 16:09:39,"MSI Prestige 14 AI Studio Laptop Intel Ultra 9 185H RTX 4060 32GB 1TB 14"" W11P",,"$1,829.99",Free shipping,https://www.ebay.com/itm/298743580889?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407,"$1,679.99"
+2026-11-13 16:09:39,N/A,,N/A,N/A,N/A,"$1,679.99"
+2026-11-13 16:09:39,N/A,,"$1,829.99",N/A,N/A,N/A
+2026-11-13 16:09:39,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:39,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:39,Samsung HW-Q990F 11.1.4ch Dolby Atmos Soundbar with Subwoofer & Rear Speakers,,"$1,597.99",Free shipping,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,$891.00
+2026-11-13 16:09:39,N/A,,N/A,N/A,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,N/A
+2026-11-13 16:09:39,Samsung HW-Q990F 11.1.4ch Dolby Atmos Soundbar with Subwoofer & Rear Speakers,,"$1,597.99",Free shipping,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,$891.00
+2026-11-13 16:09:39,N/A,,N/A,N/A,N/A,$891.00
+2026-11-13 16:09:39,N/A,,"$1,597.99",N/A,N/A,N/A
+2026-11-13 16:09:39,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:39,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",,$199.00,Free shipping,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,$124.00
+2026-11-13 16:09:39,N/A,,N/A,N/A,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,N/A
+2026-11-13 16:09:39,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",,$199.00,Free shipping,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,$124.00
+2026-11-13 16:09:39,N/A,,N/A,N/A,N/A,$124.00
+2026-11-13 16:09:39,N/A,,$199.00,N/A,N/A,N/A
+2026-11-13 16:09:39,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:39,LG 77 Inch OLED evo AI C6H 4K Smart webOS TV 2026,,"$3,596.99",Free shipping,https://www.ebay.com/itm/318853131587?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,"$1,979.99"
+2026-11-13 16:09:39,N/A,,N/A,N/A,https://www.ebay.com/itm/318853131587?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,N/A
+2026-11-13 16:09:39,LG 77 Inch OLED evo AI C6H 4K Smart webOS TV 2026,,"$3,596.99",Free shipping,https://www.ebay.com/itm/318853131587?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,"$1,979.99"
+2026-11-13 16:09:39,N/A,,N/A,N/A,N/A,"$1,979.99"
+2026-11-13 16:09:39,N/A,,"$3,596.99",N/A,N/A,N/A
+2026-11-13 16:09:39,"Bose TV Speaker Home Theater Soundbar, Certified Refurbished",,$279.00,Free shipping,https://www.ebay.com/itm/184706040293?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,$199.00
+2026-11-13 16:09:39,N/A,,N/A,N/A,https://www.ebay.com/itm/184706040293?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,N/A
+2026-11-13 16:09:39,"Bose TV Speaker Home Theater Soundbar, Certified Refurbished",,$279.00,Free shipping,https://www.ebay.com/itm/184706040293?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409,$199.00
+2026-11-13 16:09:39,N/A,,N/A,N/A,N/A,$199.00
+2026-11-13 16:09:39,N/A,,$279.00,N/A,N/A,N/A
+2026-11-13 16:09:39,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:39,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:39,DJI Air 3S Fly More Combo (RC 2) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306788560907?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,"$1,499.00"
+2026-11-13 16:09:40,N/A,,N/A,N/A,https://www.ebay.com/itm/306788560907?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,N/A
+2026-11-13 16:09:40,DJI Air 3S Fly More Combo (RC 2) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306788560907?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,"$1,499.00"
+2026-11-13 16:09:40,N/A,,N/A,N/A,N/A,"$1,499.00"
+2026-11-13 16:09:40,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:40,DJI Air 3S (RC-N3) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306788552019?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,$999.00
+2026-11-13 16:09:40,N/A,,N/A,N/A,https://www.ebay.com/itm/306788552019?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,N/A
+2026-11-13 16:09:40,DJI Air 3S (RC-N3) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306788552019?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,$999.00
+2026-11-13 16:09:40,N/A,,N/A,N/A,N/A,$999.00
+2026-11-13 16:09:40,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:40,DJI Mic Mini (1 TX + 1 RX) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306791882157?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,$42.00
+2026-11-13 16:09:40,N/A,,N/A,N/A,https://www.ebay.com/itm/306791882157?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,N/A
+2026-11-13 16:09:40,DJI Mic Mini (1 TX + 1 RX) (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306791882157?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,$42.00
+2026-11-13 16:09:40,N/A,,N/A,N/A,N/A,$42.00
+2026-11-13 16:09:40,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:40,DJI Osmo Action 5 Pro Standard Combo (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306791886107?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,$289.00
+2026-11-13 16:09:40,N/A,,N/A,N/A,https://www.ebay.com/itm/306791886107?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,N/A
+2026-11-13 16:09:40,DJI Osmo Action 5 Pro Standard Combo (Certified Refurbished),,N/A,Free shipping,https://www.ebay.com/itm/306791886107?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430,$289.00
+2026-11-13 16:09:40,N/A,,N/A,N/A,N/A,$289.00
+2026-11-13 16:09:40,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:40,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:40,Microsoft XBOX Nano Controller,,N/A,Free shipping,https://www.ebay.com/itm/128176098273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$49.99
+2026-11-13 16:09:40,N/A,,N/A,N/A,https://www.ebay.com/itm/128176098273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,N/A
+2026-11-13 16:09:40,Microsoft XBOX Nano Controller,,N/A,Free shipping,https://www.ebay.com/itm/128176098273?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$49.99
+2026-11-13 16:09:40,N/A,,N/A,N/A,N/A,$49.99
+2026-11-13 16:09:40,"JBL Quantum 400, USB over-ear PC gaming headset with game-chat dial",,$69.97,Free shipping,https://www.ebay.com/itm/156942027009?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$39.99
+2026-11-13 16:09:40,N/A,,N/A,N/A,https://www.ebay.com/itm/156942027009?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,N/A
+2026-11-13 16:09:40,"JBL Quantum 400, USB over-ear PC gaming headset with game-chat dial",,$69.97,Free shipping,https://www.ebay.com/itm/156942027009?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$39.99
+2026-11-13 16:09:40,N/A,,N/A,N/A,N/A,$39.99
+2026-11-13 16:09:40,N/A,,$69.97,N/A,N/A,N/A
+2026-11-13 16:09:40,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:40,"JBL Quantum 100, Wired over-ear gaming headset with flip-up mic",,$29.96,Free shipping,https://www.ebay.com/itm/396306942972?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$19.99
+2026-11-13 16:09:40,N/A,,N/A,N/A,https://www.ebay.com/itm/396306942972?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,N/A
+2026-11-13 16:09:40,"JBL Quantum 100, Wired over-ear gaming headset with flip-up mic",,$29.96,Free shipping,https://www.ebay.com/itm/396306942972?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$19.99
+2026-11-13 16:09:40,N/A,,N/A,N/A,N/A,$19.99
+2026-11-13 16:09:41,N/A,,$29.96,N/A,N/A,N/A
+2026-11-13 16:09:41,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:41,Nintendo Switch Gaming Console 32GB + 1 Year Warranty 🛡️ | 2-Day Shipping! 📦✈️,,$339.99,Free shipping,https://www.ebay.com/itm/297859410715?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$209.99
+2026-11-13 16:09:41,N/A,,N/A,N/A,https://www.ebay.com/itm/297859410715?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,N/A
+2026-11-13 16:09:41,Nintendo Switch Gaming Console 32GB + 1 Year Warranty 🛡️ | 2-Day Shipping! 📦✈️,,$339.99,Free shipping,https://www.ebay.com/itm/297859410715?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401,$209.99
+2026-11-13 16:09:41,N/A,,N/A,N/A,N/A,$209.99
+2026-11-13 16:09:41,N/A,,$339.99,N/A,N/A,N/A
+2026-11-13 16:09:41,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:41,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:41,"Apple iPad 11th Gen A16 11"" 128GB WiFi – Very Good – 1 Year Warranty",,$599.00,Free shipping,https://www.ebay.com/itm/205814519726?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$345.81
+2026-11-13 16:09:41,N/A,,N/A,N/A,https://www.ebay.com/itm/205814519726?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,N/A
+2026-11-13 16:09:41,"Apple iPad 11th Gen A16 11"" 128GB WiFi – Very Good – 1 Year Warranty",,$599.00,Free shipping,https://www.ebay.com/itm/205814519726?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$345.81
+2026-11-13 16:09:41,N/A,,N/A,N/A,N/A,$345.81
+2026-11-13 16:09:41,N/A,,$599.00,N/A,N/A,N/A
+2026-11-13 16:09:41,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:41,"2021 Apple iPad Mini 6 256GB WiFi/Cellular 8.3"" - (Space Gray) A2568 w/Warranty",,$799.00,Free shipping,https://www.ebay.com/itm/358671987340?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$324.99
+2026-11-13 16:09:41,N/A,,N/A,N/A,https://www.ebay.com/itm/358671987340?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,N/A
+2026-11-13 16:09:41,"2021 Apple iPad Mini 6 256GB WiFi/Cellular 8.3"" - (Space Gray) A2568 w/Warranty",,$799.00,Free shipping,https://www.ebay.com/itm/358671987340?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$324.99
+2026-11-13 16:09:41,N/A,,N/A,N/A,N/A,$324.99
+2026-11-13 16:09:41,N/A,,$799.00,N/A,N/A,N/A
+2026-11-13 16:09:41,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:41,"Apple iPad Pro 12.9"" 5th Gen 128GB 256GB 1TB 2TB Wi-Fi Or Cellular - Good",,"$1,099.00",Free shipping,https://www.ebay.com/itm/158135916263?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$474.99
+2026-11-13 16:09:41,N/A,,N/A,N/A,https://www.ebay.com/itm/158135916263?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,N/A
+2026-11-13 16:09:41,"Apple iPad Pro 12.9"" 5th Gen 128GB 256GB 1TB 2TB Wi-Fi Or Cellular - Good",,"$1,099.00",Free shipping,https://www.ebay.com/itm/158135916263?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$474.99
+2026-11-13 16:09:41,N/A,,N/A,N/A,N/A,$474.99
+2026-11-13 16:09:41,N/A,,"$1,099.00",N/A,N/A,N/A
+2026-11-13 16:09:41,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:41,"reMarkable Paper Pro Color 11.8"" Wi‑Fi Tablet with Marker Plus Bundle",,N/A,Free shipping,https://www.ebay.com/itm/227481371643?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$486.00
+2026-11-13 16:09:41,N/A,,N/A,N/A,https://www.ebay.com/itm/227481371643?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,N/A
+2026-11-13 16:09:41,"reMarkable Paper Pro Color 11.8"" Wi‑Fi Tablet with Marker Plus Bundle",,N/A,Free shipping,https://www.ebay.com/itm/227481371643?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415,$486.00
+2026-11-13 16:09:41,N/A,,N/A,N/A,N/A,$486.00
+2026-11-13 16:09:41,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:41,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:42,"Spigen Ultra Hybrid MagFit for iPhone 18 Pro Max Case, iPhone 17 Pro Max Case",,N/A,Free shipping,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$14.99
+2026-11-13 16:09:42,N/A,,N/A,N/A,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,N/A
+2026-11-13 16:09:42,"Spigen Ultra Hybrid MagFit for iPhone 18 Pro Max Case, iPhone 17 Pro Max Case",,N/A,Free shipping,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$14.99
+2026-11-13 16:09:42,N/A,,N/A,N/A,N/A,$14.99
+2026-11-13 16:09:42,"Anker |Refurb USB-C Car Charger, iPhone 17 Car Charger, 67W 3-Port PIQ 3.0",,N/A,Free shipping,https://www.ebay.com/itm/389955435476?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$27.11
+2026-11-13 16:09:42,N/A,,N/A,N/A,https://www.ebay.com/itm/389955435476?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,N/A
+2026-11-13 16:09:42,"Anker |Refurb USB-C Car Charger, iPhone 17 Car Charger, 67W 3-Port PIQ 3.0",,N/A,Free shipping,https://www.ebay.com/itm/389955435476?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$27.11
+2026-11-13 16:09:42,N/A,,N/A,N/A,N/A,$27.11
+2026-11-13 16:09:42,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:42,"Anker Prime Charger, 160W Max 3-Port GaN Charger, for MacBook Pro Charger",,N/A,Free shipping,https://www.ebay.com/itm/800625429020?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$93.99
+2026-11-13 16:09:42,N/A,,N/A,N/A,https://www.ebay.com/itm/800625429020?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,N/A
+2026-11-13 16:09:42,"Anker Prime Charger, 160W Max 3-Port GaN Charger, for MacBook Pro Charger",,N/A,Free shipping,https://www.ebay.com/itm/800625429020?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$93.99
+2026-11-13 16:09:42,N/A,,N/A,N/A,N/A,$93.99
+2026-11-13 16:09:42,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:42,weBoost Home MultiRoom | Factory Refurbished | Cell Signal Booster Kit (470144R),,$437.99,Free shipping,https://www.ebay.com/itm/137647200182?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$372.29
+2026-11-13 16:09:42,N/A,,N/A,N/A,https://www.ebay.com/itm/137647200182?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,N/A
+2026-11-13 16:09:42,weBoost Home MultiRoom | Factory Refurbished | Cell Signal Booster Kit (470144R),,$437.99,Free shipping,https://www.ebay.com/itm/137647200182?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419,$372.29
+2026-11-13 16:09:42,N/A,,N/A,N/A,N/A,$372.29
+2026-11-13 16:09:42,N/A,,$437.99,N/A,N/A,N/A
+2026-11-13 16:09:42,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:42,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:42,Seagate ST24000NM000H 24TB 7200RPM SATA 6Gb/s 256MB 3.5in Enterprise Hard Drive,,N/A,Free shipping,https://www.ebay.com/itm/157069093432?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$699.99
+2026-11-13 16:09:42,N/A,,N/A,N/A,https://www.ebay.com/itm/157069093432?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,N/A
+2026-11-13 16:09:42,Seagate ST24000NM000H 24TB 7200RPM SATA 6Gb/s 256MB 3.5in Enterprise Hard Drive,,N/A,Free shipping,https://www.ebay.com/itm/157069093432?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$699.99
+2026-11-13 16:09:42,N/A,,N/A,N/A,N/A,$699.99
+2026-11-13 16:09:42,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:42,Netac 2TB 1TB 500GB Internal SSD M.2 NVMe PCIe3.0 Solid State Drive lot,,N/A,Free shipping,https://www.ebay.com/itm/314583757070?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$55.00
+2026-11-13 16:09:42,N/A,,N/A,N/A,https://www.ebay.com/itm/314583757070?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,N/A
+2026-11-13 16:09:42,Netac 2TB 1TB 500GB Internal SSD M.2 NVMe PCIe3.0 Solid State Drive lot,,N/A,Free shipping,https://www.ebay.com/itm/314583757070?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$55.00
+2026-11-13 16:09:42,N/A,,N/A,N/A,N/A,$55.00
+2026-11-13 16:09:42,Netac M.2 2280 1TB PCIe3.0 NVMe 1.4 3D NAND Internal Solid State Drive,,N/A,Free shipping,https://www.ebay.com/itm/314675451357?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$140.00
+2026-11-13 16:09:42,N/A,,N/A,N/A,https://www.ebay.com/itm/314675451357?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,N/A
+2026-11-13 16:09:42,Netac M.2 2280 1TB PCIe3.0 NVMe 1.4 3D NAND Internal Solid State Drive,,N/A,Free shipping,https://www.ebay.com/itm/314675451357?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$140.00
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,$140.00
+2026-11-13 16:09:43,Netac 512GB M.2 2280 Internal SSD PCIe Gen3x4 NVMe Solid State Drive 2500MB/s,,N/A,Free shipping,https://www.ebay.com/itm/315784988628?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$75.99
+2026-11-13 16:09:43,N/A,,N/A,N/A,https://www.ebay.com/itm/315784988628?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,N/A
+2026-11-13 16:09:43,Netac 512GB M.2 2280 Internal SSD PCIe Gen3x4 NVMe Solid State Drive 2500MB/s,,N/A,Free shipping,https://www.ebay.com/itm/315784988628?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421,$75.99
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,$75.99
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:43,Sony ULT FIELD 3 Wireless Portable Bluetooth Speaker Forest Gray SRSULT30/H,,N/A,Free shipping,https://www.ebay.com/itm/278359684858?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$89.99
+2026-11-13 16:09:43,N/A,,N/A,N/A,https://www.ebay.com/itm/278359684858?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,N/A
+2026-11-13 16:09:43,Sony ULT FIELD 3 Wireless Portable Bluetooth Speaker Forest Gray SRSULT30/H,,N/A,Free shipping,https://www.ebay.com/itm/278359684858?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$89.99
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,$89.99
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:43,"Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished",,$449.00,Free shipping,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$249.00
+2026-11-13 16:09:43,N/A,,N/A,N/A,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,N/A
+2026-11-13 16:09:43,"Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished",,$449.00,Free shipping,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$249.00
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,$249.00
+2026-11-13 16:09:43,N/A,,$449.00,N/A,N/A,N/A
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:43,Sony WH-1000XM5 Wireless Noise Cancelling Headphones Silver,,N/A,Free shipping,https://www.ebay.com/itm/318849109603?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$159.99
+2026-11-13 16:09:43,N/A,,N/A,N/A,https://www.ebay.com/itm/318849109603?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,N/A
+2026-11-13 16:09:43,Sony WH-1000XM5 Wireless Noise Cancelling Headphones Silver,,N/A,Free shipping,https://www.ebay.com/itm/318849109603?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$159.99
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,$159.99
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:43,"Bose SoundLink Flex Portable Speaker (2nd Gen), Certified Refurbished",,$129.00,Free shipping,https://www.ebay.com/itm/158069778974?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$114.00
+2026-11-13 16:09:43,N/A,,N/A,N/A,https://www.ebay.com/itm/158069778974?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,N/A
+2026-11-13 16:09:43,"Bose SoundLink Flex Portable Speaker (2nd Gen), Certified Refurbished",,$129.00,Free shipping,https://www.ebay.com/itm/158069778974?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403,$114.00
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,$114.00
+2026-11-13 16:09:43,N/A,,$129.00,N/A,N/A,N/A
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:43,"✅Zebra ZQ620 Barcode Printer, WiFi, Bluetooth w/ Battery, Charger, Belt Clip!🔥⭐",,N/A,Free shipping,https://www.ebay.com/itm/156610834518?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$498.00
+2026-11-13 16:09:43,N/A,,N/A,N/A,https://www.ebay.com/itm/156610834518?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,N/A
+2026-11-13 16:09:43,"✅Zebra ZQ620 Barcode Printer, WiFi, Bluetooth w/ Battery, Charger, Belt Clip!🔥⭐",,N/A,Free shipping,https://www.ebay.com/itm/156610834518?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$498.00
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,$498.00
+2026-11-13 16:09:43,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:44,Epson FastFoto FF-680W High-speed Photo Scanner - Certified Refurbished,,N/A,Free shipping,https://www.ebay.com/itm/198648985862?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$399.99
+2026-11-13 16:09:44,N/A,,N/A,N/A,https://www.ebay.com/itm/198648985862?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,N/A
+2026-11-13 16:09:44,Epson FastFoto FF-680W High-speed Photo Scanner - Certified Refurbished,,N/A,Free shipping,https://www.ebay.com/itm/198648985862?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$399.99
+2026-11-13 16:09:44,N/A,,N/A,N/A,N/A,$399.99
+2026-11-13 16:09:44,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:44,Epson EcoTank ET-2988 Printer - White - Certified Refurbished,,N/A,Free shipping,https://www.ebay.com/itm/198026237563?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$169.99
+2026-11-13 16:09:44,N/A,,N/A,N/A,https://www.ebay.com/itm/198026237563?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,N/A
+2026-11-13 16:09:44,Epson EcoTank ET-2988 Printer - White - Certified Refurbished,,N/A,Free shipping,https://www.ebay.com/itm/198026237563?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$169.99
+2026-11-13 16:09:44,N/A,,N/A,N/A,N/A,$169.99
+2026-11-13 16:09:44,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:44,Epson WorkForce ES-400 II Duplex Scanner - Certified Refurbished,,N/A,Free shipping,https://www.ebay.com/itm/227527667046?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$229.99
+2026-11-13 16:09:44,N/A,,N/A,N/A,https://www.ebay.com/itm/227527667046?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,N/A
+2026-11-13 16:09:44,Epson WorkForce ES-400 II Duplex Scanner - Certified Refurbished,,N/A,Free shipping,https://www.ebay.com/itm/227527667046?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417,$229.99
+2026-11-13 16:09:44,N/A,,N/A,N/A,N/A,$229.99
+2026-11-13 16:09:44,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:44,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:44,Black Diamond 4-Channel Amplifier Class D 3600W Full Range - DIA-P1800X4D,,N/A,Free shipping,https://www.ebay.com/itm/305665347752?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$125.97
+2026-11-13 16:09:44,N/A,,N/A,N/A,https://www.ebay.com/itm/305665347752?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,N/A
+2026-11-13 16:09:44,Black Diamond 4-Channel Amplifier Class D 3600W Full Range - DIA-P1800X4D,,N/A,Free shipping,https://www.ebay.com/itm/305665347752?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$125.97
+2026-11-13 16:09:44,N/A,,N/A,N/A,N/A,$125.97
+2026-11-13 16:09:44,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:44,🔝2026 MUCAR 892BT Bidirectional OBD2 Scanner Car System AI Diagnostic Scan Tool,,N/A,Free shipping,https://www.ebay.com/itm/396756053401?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$489.00
+2026-11-13 16:09:44,N/A,,N/A,N/A,https://www.ebay.com/itm/396756053401?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,N/A
+2026-11-13 16:09:44,🔝2026 MUCAR 892BT Bidirectional OBD2 Scanner Car System AI Diagnostic Scan Tool,,N/A,Free shipping,https://www.ebay.com/itm/396756053401?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$489.00
+2026-11-13 16:09:44,N/A,,N/A,N/A,N/A,$489.00
+2026-11-13 16:09:44,THINKCAR THINKSCAN 689BT Pro Version With Lifetime Free Updates,,N/A,Free shipping,https://www.ebay.com/itm/398280206327?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$759.00
+2026-11-13 16:09:44,N/A,,N/A,N/A,https://www.ebay.com/itm/398280206327?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,N/A
+2026-11-13 16:09:44,THINKCAR THINKSCAN 689BT Pro Version With Lifetime Free Updates,,N/A,Free shipping,https://www.ebay.com/itm/398280206327?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$759.00
+2026-11-13 16:09:44,N/A,,N/A,N/A,N/A,$759.00
+2026-11-13 16:09:44,AudioControl LC2i PRO 2 Channel 400 Watts line output converter AccuBASS ACR-1,,N/A,Free shipping,https://www.ebay.com/itm/395552662737?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$134.90
+2026-11-13 16:09:44,N/A,,N/A,N/A,https://www.ebay.com/itm/395552662737?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,N/A
+2026-11-13 16:09:44,AudioControl LC2i PRO 2 Channel 400 Watts line output converter AccuBASS ACR-1,,N/A,Free shipping,https://www.ebay.com/itm/395552662737?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432,$134.90
+2026-11-13 16:09:44,N/A,,N/A,N/A,N/A,$134.90
+2026-11-13 16:09:45,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:45,Sony FE 85mm F1.4 GM Full Frame E-Mount Prime Lens SEL85F14GM,,N/A,Free shipping,https://www.ebay.com/itm/278359894508?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,$999.99
+2026-11-13 16:09:45,N/A,,N/A,N/A,https://www.ebay.com/itm/278359894508?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,N/A
+2026-11-13 16:09:45,Sony FE 85mm F1.4 GM Full Frame E-Mount Prime Lens SEL85F14GM,,N/A,Free shipping,https://www.ebay.com/itm/278359894508?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,$999.99
+2026-11-13 16:09:45,N/A,,N/A,N/A,N/A,$999.99
+2026-11-13 16:09:45,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:45,Leica Noctilux-M 35mm F/1.2 ASPH. Lens Black 11635 *BRAND NEW*,,N/A,Free shipping,https://www.ebay.com/itm/317874841929?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$9,999.00"
+2026-11-13 16:09:45,N/A,,N/A,N/A,https://www.ebay.com/itm/317874841929?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,N/A
+2026-11-13 16:09:45,Leica Noctilux-M 35mm F/1.2 ASPH. Lens Black 11635 *BRAND NEW*,,N/A,Free shipping,https://www.ebay.com/itm/317874841929?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$9,999.00"
+2026-11-13 16:09:45,N/A,,N/A,N/A,N/A,"$9,999.00"
+2026-11-13 16:09:45,Sony FE 24-70mm f/2.8 GM II Lens,,N/A,Free shipping,https://www.ebay.com/itm/115483793879?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$1,796.99"
+2026-11-13 16:09:45,N/A,,N/A,N/A,https://www.ebay.com/itm/115483793879?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,N/A
+2026-11-13 16:09:45,Sony FE 24-70mm f/2.8 GM II Lens,,N/A,Free shipping,https://www.ebay.com/itm/115483793879?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$1,796.99"
+2026-11-13 16:09:45,N/A,,N/A,N/A,N/A,"$1,796.99"
+2026-11-13 16:09:45,Sony FE 24-70mm f/2.8 GM II Lens - SEL2470GM2,,N/A,Free shipping,https://www.ebay.com/itm/295042253957?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$1,869.00"
+2026-11-13 16:09:45,N/A,,N/A,N/A,https://www.ebay.com/itm/295042253957?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,N/A
+2026-11-13 16:09:45,Sony FE 24-70mm f/2.8 GM II Lens - SEL2470GM2,,N/A,Free shipping,https://www.ebay.com/itm/295042253957?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425,"$1,869.00"
+2026-11-13 16:09:45,N/A,,N/A,N/A,N/A,"$1,869.00"
+2026-11-13 16:09:45,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:45,Samsung HW-Q990F 11.1.4ch Dolby Atmos Soundbar with Subwoofer & Rear Speakers,,"$1,597.99",Free shipping,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$891.00
+2026-11-13 16:09:45,N/A,,N/A,N/A,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,N/A
+2026-11-13 16:09:45,Samsung HW-Q990F 11.1.4ch Dolby Atmos Soundbar with Subwoofer & Rear Speakers,,"$1,597.99",Free shipping,https://www.ebay.com/itm/187269222447?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$891.00
+2026-11-13 16:09:45,N/A,,N/A,N/A,N/A,$891.00
+2026-11-13 16:09:45,N/A,,"$1,597.99",N/A,N/A,N/A
+2026-11-13 16:09:45,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:45,Sony ULT FIELD 3 Wireless Portable Bluetooth Speaker Forest Gray SRSULT30/H,,N/A,Free shipping,https://www.ebay.com/itm/278359684858?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$89.99
+2026-11-13 16:09:45,N/A,,N/A,N/A,https://www.ebay.com/itm/278359684858?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,N/A
+2026-11-13 16:09:45,Sony ULT FIELD 3 Wireless Portable Bluetooth Speaker Forest Gray SRSULT30/H,,N/A,Free shipping,https://www.ebay.com/itm/278359684858?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$89.99
+2026-11-13 16:09:45,N/A,,N/A,N/A,N/A,$89.99
+2026-11-13 16:09:45,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:45,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",,$199.00,Free shipping,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$124.00
+2026-11-13 16:09:45,N/A,,N/A,N/A,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,N/A
+2026-11-13 16:09:45,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",,$199.00,Free shipping,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$124.00
+2026-11-13 16:09:45,N/A,,N/A,N/A,N/A,$124.00
+2026-11-13 16:09:46,N/A,,$199.00,N/A,N/A,N/A
+2026-11-13 16:09:46,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:46,"Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished",,$449.00,Free shipping,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$249.00
+2026-11-13 16:09:46,N/A,,N/A,N/A,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,N/A
+2026-11-13 16:09:46,"Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished",,$449.00,Free shipping,https://www.ebay.com/itm/166708867898?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413,$249.00
+2026-11-13 16:09:46,N/A,,N/A,N/A,N/A,$249.00
+2026-11-13 16:09:46,N/A,,$449.00,N/A,N/A,N/A
+2026-11-13 16:09:46,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:46,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:46,OEM Apple Pencil Pro Charges & Pairs Magnetically - Excellent,,$129.00,Free shipping,https://www.ebay.com/itm/406493840204?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$79.99
+2026-11-13 16:09:46,N/A,,N/A,N/A,https://www.ebay.com/itm/406493840204?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,N/A
+2026-11-13 16:09:46,OEM Apple Pencil Pro Charges & Pairs Magnetically - Excellent,,$129.00,Free shipping,https://www.ebay.com/itm/406493840204?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$79.99
+2026-11-13 16:09:46,N/A,,N/A,N/A,N/A,$79.99
+2026-11-13 16:09:46,N/A,,$129.00,N/A,N/A,N/A
+2026-11-13 16:09:46,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:46,NEW Apple Pencil 2nd Generation iPad Pro Stylus MU8F2AM/A,,$79.99,Free shipping,https://www.ebay.com/itm/176942634649?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$55.99
+2026-11-13 16:09:46,N/A,,N/A,N/A,https://www.ebay.com/itm/176942634649?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,N/A
+2026-11-13 16:09:46,NEW Apple Pencil 2nd Generation iPad Pro Stylus MU8F2AM/A,,$79.99,Free shipping,https://www.ebay.com/itm/176942634649?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$55.99
+2026-11-13 16:09:46,N/A,,N/A,N/A,N/A,$55.99
+2026-11-13 16:09:46,N/A,,$79.99,N/A,N/A,N/A
+2026-11-13 16:09:46,"Apple Pencil Pro Stylus for iPad Pro M4-M5, iPad Air M2-M4, iPad mini A17 Pro",,N/A,Free shipping,https://www.ebay.com/itm/366685316712?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$99.00
+2026-11-13 16:09:46,N/A,,N/A,N/A,https://www.ebay.com/itm/366685316712?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,N/A
+2026-11-13 16:09:46,"Apple Pencil Pro Stylus for iPad Pro M4-M5, iPad Air M2-M4, iPad mini A17 Pro",,N/A,Free shipping,https://www.ebay.com/itm/366685316712?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$99.00
+2026-11-13 16:09:46,N/A,,N/A,N/A,N/A,$99.00
+2026-11-13 16:09:46,Apple Pencil Pro White - Excellent,,$129.00,Free shipping,https://www.ebay.com/itm/186655106506?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$85.99
+2026-11-13 16:09:46,N/A,,N/A,N/A,https://www.ebay.com/itm/186655106506?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,N/A
+2026-11-13 16:09:46,Apple Pencil Pro White - Excellent,,$129.00,Free shipping,https://www.ebay.com/itm/186655106506?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427,$85.99
+2026-11-13 16:09:46,N/A,,N/A,N/A,N/A,$85.99
+2026-11-13 16:09:46,N/A,,$129.00,N/A,N/A,N/A
+2026-11-13 16:09:46,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:46,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:46,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",Free shipping,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$989.99
+2026-11-13 16:09:46,N/A,,N/A,N/A,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,N/A
+2026-11-13 16:09:46,Apple iPhone 16 Pro Max 256GB Unlocked Very Good All Colors,,"$1,199.00",Free shipping,https://www.ebay.com/itm/127846595678?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$989.99
+2026-11-13 16:09:47,N/A,,N/A,N/A,N/A,$989.99
+2026-11-13 16:09:47,N/A,,"$1,199.00",N/A,N/A,N/A
+2026-11-13 16:09:47,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:47,Samsung Galaxy S26+ 256GB S947U Unlocked - Excellent,,"$1,099.99",Free shipping,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$657.99
+2026-11-13 16:09:47,N/A,,N/A,N/A,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,N/A
+2026-11-13 16:09:47,Samsung Galaxy S26+ 256GB S947U Unlocked - Excellent,,"$1,099.99",Free shipping,https://www.ebay.com/itm/257746815840?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$657.99
+2026-11-13 16:09:47,N/A,,N/A,N/A,N/A,$657.99
+2026-11-13 16:09:47,N/A,,"$1,099.99",N/A,N/A,N/A
+2026-11-13 16:09:47,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:47,Samsung Galaxy S21 - 5G - SM- G991U1 - 128GB - FACTORY UNLOCKED - EXCELLENT,,N/A,Free shipping,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$139.99
+2026-11-13 16:09:47,N/A,,N/A,N/A,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,N/A
+2026-11-13 16:09:47,Samsung Galaxy S21 - 5G - SM- G991U1 - 128GB - FACTORY UNLOCKED - EXCELLENT,,N/A,Free shipping,https://www.ebay.com/itm/125641047454?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$139.99
+2026-11-13 16:09:47,N/A,,N/A,N/A,N/A,$139.99
+2026-11-13 16:09:47,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:47,"Spigen Ultra Hybrid MagFit for iPhone 18 Pro Max Case, iPhone 17 Pro Max Case",,N/A,Free shipping,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$14.99
+2026-11-13 16:09:47,N/A,,N/A,N/A,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,N/A
+2026-11-13 16:09:47,"Spigen Ultra Hybrid MagFit for iPhone 18 Pro Max Case, iPhone 17 Pro Max Case",,N/A,Free shipping,https://www.ebay.com/itm/277372969343?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411,$14.99
+2026-11-13 16:09:47,N/A,,N/A,N/A,N/A,$14.99
+2026-11-13 16:09:47,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:47,"Acer Nitro ED340CUR X 34"" 3440x1440 200Hz 300Nit 1ms 75x75 Curved Refurbished",,$449.99,Free shipping,https://www.ebay.com/itm/257230569576?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$194.31
+2026-11-13 16:09:47,N/A,,N/A,N/A,https://www.ebay.com/itm/257230569576?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,N/A
+2026-11-13 16:09:47,"Acer Nitro ED340CUR X 34"" 3440x1440 200Hz 300Nit 1ms 75x75 Curved Refurbished",,$449.99,Free shipping,https://www.ebay.com/itm/257230569576?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$194.31
+2026-11-13 16:09:47,N/A,,N/A,N/A,N/A,$194.31
+2026-11-13 16:09:47,N/A,,$449.99,N/A,N/A,N/A
+2026-11-13 16:09:47,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:47,Deco Gear 49 inch Curved Ultrawide 5K Monitor - 120Hz; 101% NTSC; 100% sRGB - Op,,"$1,099.95",Free shipping,https://www.ebay.com/itm/335445914215?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$445.99
+2026-11-13 16:09:47,N/A,,N/A,N/A,https://www.ebay.com/itm/335445914215?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,N/A
+2026-11-13 16:09:47,Deco Gear 49 inch Curved Ultrawide 5K Monitor - 120Hz; 101% NTSC; 100% sRGB - Op,,"$1,099.95",Free shipping,https://www.ebay.com/itm/335445914215?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$445.99
+2026-11-13 16:09:47,N/A,,N/A,N/A,N/A,$445.99
+2026-11-13 16:09:47,N/A,,"$1,099.95",N/A,N/A,N/A
+2026-11-13 16:09:47,"Acer EK1 27"" FHD IPS Monitor 144Hz 1ms FreeSync UM.HE1AA.602 Refurbished",,$199.99,Free shipping,https://www.ebay.com/itm/267509668039?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$90.90
+2026-11-13 16:09:47,N/A,,N/A,N/A,https://www.ebay.com/itm/267509668039?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,N/A
+2026-11-13 16:09:47,"Acer EK1 27"" FHD IPS Monitor 144Hz 1ms FreeSync UM.HE1AA.602 Refurbished",,$199.99,Free shipping,https://www.ebay.com/itm/267509668039?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$90.90
+2026-11-13 16:09:47,N/A,,N/A,N/A,N/A,$90.90
+2026-11-13 16:09:48,N/A,,$199.99,N/A,N/A,N/A
+2026-11-13 16:09:48,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:48,"Acer Nitro XV0 23.8"" XV240Y W3biipr 1920x1080 IPS 240Hz 250Nit 0.5ms Refurbished",,$149.99,Free shipping,https://www.ebay.com/itm/267696416468?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$124.99
+2026-11-13 16:09:48,N/A,,N/A,N/A,https://www.ebay.com/itm/267696416468?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,N/A
+2026-11-13 16:09:48,"Acer Nitro XV0 23.8"" XV240Y W3biipr 1920x1080 IPS 240Hz 250Nit 0.5ms Refurbished",,$149.99,Free shipping,https://www.ebay.com/itm/267696416468?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405,$124.99
+2026-11-13 16:09:48,N/A,,N/A,N/A,N/A,$124.99
+2026-11-13 16:09:48,N/A,,$149.99,N/A,N/A,N/A
+2026-11-13 16:09:48,N/A,,N/A,N/A,N/A,N/A
+2026-11-13 16:09:48,N/A,,N/A,N/A,N/A,N/A
